@@ -1,1 +1,71 @@
-[{"id":"019da5e6-8529-7bd6-8d5b-117464da680c","title":"週末聚會 · 跳世界","summary":"輕鬆聊天、截圖、跳世界。新手友善；語音可選。","time_start":"2026-04-20T05:00:00+00:00","time_end":"2026-04-20T07:00:00+00:00","poster":"https://picsum.photos/seed/vrc-d/600/800","group_id":"grp_6d382ac1-d000-4a1f-ae69-c28f2f0aac5d","tags":["新手","地圖"]},{"id":"019da5e6-8529-7987-b096-266a236006c1","title":"工作坊：Avatar 基礎","summary":"Unity／VRChat 流程概覽與常見陷阱。","time_start":"2026-04-22T09:00:00.000Z","time_end":"2026-04-22T11:00:00.000Z","poster":"https://picsum.photos/seed/vrc-f/600/800","tags":["建模"],"group_id":"grp_3aab6a95-3809-4cd2-ba38-64f42fcfbe9f"},{"id":"019da5e6-8529-7f6f-84a2-dacce6ed0c7c","title":"主題夜：霓虹城市","summary":"Dress code：霓虹元素點綴。小遊戲與團體合照。","time_start":"2026-04-25T19:00:00.000Z","time_end":"2026-04-25T21:00:00.000Z","poster":"https://picsum.photos/seed/vrc-a/600/800","group_id":"grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6"},{"id":"019da5e6-8529-7b95-95f5-30a4555094ea","title":"社群攝影導覽","summary":"新地圖導覽；截圖與可選 Avatar 小競賽。","time_start":"2026-04-25T15:00:00.000Z","time_end":"2026-04-25T17:00:00.000Z","poster":"https://picsum.photos/seed/vrc-b/600/800","tags":["攝影"],"group_id":"grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6"}]
+{
+  "data": [
+    {
+      "id": "f40fc828-d40b-41c3-8df2-b8fed94f6447",
+      "title": "MONDAY RELIEF 311th",
+      "description": "21˸30-22˸15 RingoMela w⁄VJ RoastPotato\n22˸15-23˸00 Crim Nanakusa w⁄VJ RoastPotato",
+      "time_start": "2026-04-27T12:30:00Z",
+      "time_end": "2026-04-27T14:00:00Z",
+      "tags": [
+        "MR"
+      ],
+      "instance_type": "group_plus",
+      "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
+      "group_name": "MONDAY RELIEF",
+      "cal_id": "cal_a276a87c-b9ea-4732-af36-475a0b0c3ddc",
+      "poster": "/img/f40fc828-d40b-41c3-8df2-b8fed94f6447/poster.jpg"
+    },
+    {
+      "id": "019da5e6-8529-7bd6-8d5b-117464da680c",
+      "title": "週末聚會 · 跳世界",
+      "description": "輕鬆聊天、截圖、跳世界。新手友善；語音可選。",
+      "time_start": "2026-04-20T05:00:00+00:00",
+      "time_end": "2026-04-20T07:00:00+00:00",
+      "group_id": "grp_6d382ac1-d000-4a1f-ae69-c28f2f0aac5d",
+      "group_name": "Monday Relief",
+      "tags": [
+        "新手",
+        "地圖"
+      ],
+      "instance_type": "group_plus",
+      "poster": "/img/019da5e6-8529-7bd6-8d5b-117464da680c/poster.jpg"
+    },
+    {
+      "id": "019da5e6-8529-7987-b096-266a236006c1",
+      "title": "工作坊：Avatar 基礎",
+      "description": "Unity／VRChat 流程概覽與常見陷阱。",
+      "time_start": "2026-04-22T09:00:00.000Z",
+      "time_end": "2026-04-22T11:00:00.000Z",
+      "tags": [
+        "建模"
+      ],
+      "instance_type": "group_plus",
+      "group_id": "grp_3aab6a95-3809-4cd2-ba38-64f42fcfbe9f",
+      "poster": "/img/019da5e6-8529-7987-b096-266a236006c1/poster.jpg"
+    },
+    {
+      "id": "019da5e6-8529-7f6f-84a2-dacce6ed0c7c",
+      "title": "主題夜：霓虹城市",
+      "description": "Dress code：霓虹元素點綴。小遊戲與團體合照。",
+      "time_start": "2026-04-25T19:00:00.000Z",
+      "time_end": "2026-04-25T21:00:00.000Z",
+      "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
+      "instance_type": "group_plus",
+      "poster": "/img/019da5e6-8529-7f6f-84a2-dacce6ed0c7c/poster.jpg"
+    },
+    {
+      "id": "019da5e6-8529-7b95-95f5-30a4555094ea",
+      "title": "社群攝影導覽",
+      "description": "新地圖導覽；截圖與可選 Avatar 小競賽。",
+      "time_start": "2026-04-25T15:00:00.000Z",
+      "time_end": "2026-04-25T17:00:00.000Z",
+      "tags": [
+        "攝影"
+      ],
+      "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
+      "instance_type": "group_plus",
+      "poster": "/img/019da5e6-8529-7b95-95f5-30a4555094ea/poster.jpg"
+    }
+  ],
+  "updated_at": "2026-04-24T09:47:55.308Z"
+}
