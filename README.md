@@ -31,8 +31,6 @@ Each item in `data` is an event object, including at least: `id`, `title`, `desc
 
 Example result should look like `https://vreca.github.io/v1/img/019da5e6-8529-7b95-95f5-30a4555094ea/poster.jpg`
 
-**Resolve on the same host:** if the site is served with this layout, a client can treat poster URLs as relative to the `v1` “folder”, e.g. `new URL(event.poster, location.origin + "/v1/")`, or `"/v1" + event.poster` when `event.poster` is `/img/...`.
-
 ## Local folder map
 
 ```text
