@@ -27,7 +27,7 @@ Each item in `data` is an event object, including at least: `id`, `title`, `desc
 
 ### `poster` field
 
-- In JSON, `poster` is a partial path, always prepend it with base URL `https://vreca.github.io/v1` to get the full URL.
+- `poster` is a partial path, always prepend it with base URL `https://vreca.github.io/v1` to get the full URL.
 
 Example result should look like `https://vreca.github.io/v1/img/019da5e6-8529-7b95-95f5-30a4555094ea/poster.jpg`
 
