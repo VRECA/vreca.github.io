@@ -11,7 +11,7 @@ in conformation to the "Trusted URLs" policy imposed by VRChat. https://creators
 |------|------|
 | `/` | `index.html` (landing) |
 | `/v1/events.json` | Public events index (see below) |
-| `/v1/img/{eventId}/poster.jpg` | Cached poster image for that event ID |
+| `/v/img/{eventIndex}/poster.jpg` | Cached poster image for that event index (as seen in events.json)|
 
 
 ## Data: `/v1/events.json`
@@ -29,7 +29,7 @@ Each item in `data` is an event object, including at least: `id`, `title`, `desc
 
 - `poster` is a partial path, always prepend it with base URL `https://vreca.github.io/v1` to get the full URL.
 
-Example result should look like `https://vreca.github.io/v1/img/019da5e6-8529-7b95-95f5-30a4555094ea/poster.jpg`
+Example result should look like `https://vreca.github.io/v1/img/0/poster.jpg`
 
 ## Local folder map
 
@@ -39,6 +39,6 @@ vreca.github.io/
 └── v1/
     ├── events.json    # { data, updated_at }
     └── img/
-        └── {eventId}/
+        └── {eventIndex}/
             └── poster.jpg
 ```
