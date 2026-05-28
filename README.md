@@ -3,6 +3,8 @@
 Data source site of [vreca.org](https://event.vreca.org). This repo serves as data mirror for use by the VRChat gimmick,
 in conformation to the "Trusted URLs" policy imposed by VRChat. https://creators.vrchat.com/worlds/udon/string-loading#trusted-urls
 
+Also thank you VRChat for making image URLs static at build time 🙂👍🏻
+
 > Register your own event now at VRECA: https://event.vreca.org
 
 ## URL layout
