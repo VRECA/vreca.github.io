@@ -1,26 +1,20 @@
 {
  "data": [
   {
-   "id": "e36b177f-1aac-4a3a-8fba-bab9ccaab358",
-   "title": "週遊社[射]",
-   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
+   "id": "e0f3fd04-cff1-4ba2-b2af-6dd625cd8b18",
+   "title": "7⁄18（六）22˸00｜Sacc 定峰錦標賽",
+   "description": "7⁄18（六）22˸00｜Sacc 定峰錦標賽",
    "time_start": "2026-07-18 13:00:00+00",
-   "time_end": "2026-07-18 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
+   "time_end": "2026-07-18 15:59:00+00",
+   "instance_type": "group_public",
+   "group_name": "VRC賽車俱樂部 racing club TW",
    "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
+   "cal_id": "cal_79c2eb38-b1e1-4969-b156-30aa8b712434",
    "poster": "/img/0/poster.jpg",
-   "tags": [
-    "射擊",
-    "Airsoft",
-    "Speedsoft",
-    "PVP"
-   ],
+   "tags": [],
    "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
+   "recurring_complete": true,
    "cancelled": false
   },
   {
@@ -88,6 +82,23 @@
    "cancelled": false
   },
   {
+   "id": "0d9766b2-ac3c-419f-bd61-35d5f4aa520c",
+   "title": "7⁄19（日）22˸00｜CVS 紅葉 Momiji 計時賽",
+   "description": "7⁄19（日）22˸00｜CVS 紅葉 Momiji 計時賽",
+   "time_start": "2026-07-19 14:00:00+00",
+   "time_end": "2026-07-19 15:59:00+00",
+   "instance_type": "group_public",
+   "group_name": "VRC賽車俱樂部 racing club TW",
+   "type": "game",
+   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
+   "cal_id": "cal_e546626b-4237-4c1f-92e4-a1f83ae8b822",
+   "poster": "/img/4/poster.jpg",
+   "tags": [],
+   "platform": "p",
+   "recurring_complete": true,
+   "cancelled": false
+  },
+  {
    "id": "6185e82c-b63c-40f5-b010-10eaa48a32dc",
    "title": "週遊社[廳]",
    "description": "活動內容：咖啡、酒精、遊戲、聊天\n活動特點：櫃台陪聊，專人帶玩，在無聊的VRC生活中增添一點樂趣\n注意事項：請使用50MB以內的模型\n相關連結：請參考X․com＠PAEW_VRC",
@@ -97,7 +108,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -118,12 +129,35 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
     "迷宮",
     "遊戲",
+    "PVP"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "5a96f8f6-b5f3-452a-8f0c-420f1a8b7d75",
+   "title": "週遊社[射]",
+   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
+   "time_start": "2026-07-25 13:00:00+00",
+   "time_end": "2026-07-25 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/7/poster.jpg",
+   "tags": [
+    "射擊",
+    "Airsoft",
+    "Speedsoft",
     "PVP"
    ],
    "platform": "p",
@@ -143,7 +177,7 @@
    "type": "gather",
    "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
    "cal_id": "cal_6bbf2706-aa5e-410f-86cd-3b7df5639686",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/8/poster.jpg",
    "tags": [
     "台港澳VRC交流會"
    ],
@@ -153,5 +187,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-07-17T18:13:34.040Z"
+ "updated_at": "2026-07-18T14:09:48.050Z"
 }
