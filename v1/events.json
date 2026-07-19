@@ -1,29 +1,6 @@
 {
  "data": [
   {
-   "id": "d277a0e2-d670-4393-a329-fb547db6c70b",
-   "title": "週遊社[公]",
-   "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
-   "time_start": "2026-07-19 14:00:00+00",
-   "time_end": "2026-07-19 15:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "遊戲",
-    "任務",
-    "挑戰",
-    "PVE"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "0d9766b2-ac3c-419f-bd61-35d5f4aa520c",
    "title": "7⁄19（日）22˸00｜CVS 紅葉 Momiji 計時賽",
    "description": "7⁄19（日）22˸00｜CVS 紅葉 Momiji 計時賽",
@@ -34,7 +11,7 @@
    "type": "game",
    "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
    "cal_id": "cal_e546626b-4237-4c1f-92e4-a1f83ae8b822",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [],
    "platform": "p",
    "recurring_complete": true,
@@ -50,7 +27,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -71,7 +48,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -95,7 +72,7 @@
    "group_name": "UNWelcomeZ",
    "type": "music",
    "group_id": "grp_519b637b-c5b8-4d5c-a024-e5b688fc45d7",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
@@ -113,7 +90,7 @@
    "type": "gather",
    "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
    "cal_id": "cal_6bbf2706-aa5e-410f-86cd-3b7df5639686",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "台港澳VRC交流會"
    ],
@@ -132,7 +109,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -155,7 +132,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -175,7 +152,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -185,7 +162,30 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "5e6c1308-bb4e-48b0-a200-39b85999435f",
+   "title": "週遊社[公]",
+   "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-07-26 14:00:00+00",
+   "time_end": "2026-07-26 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/8/poster.jpg",
+   "tags": [
+    "遊戲",
+    "任務",
+    "挑戰",
+    "PVE"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-07-19T14:03:21.290Z"
+ "updated_at": "2026-07-19T15:03:21.316Z"
 }
