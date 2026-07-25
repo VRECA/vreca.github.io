@@ -1,23 +1,6 @@
 {
  "data": [
   {
-   "id": "9a2ac74c-252e-4236-a100-811326a0a584",
-   "title": "UNWPA:台客舞曲大帝國",
-   "description": "最ㄅㄧㄤˋ的電音•最hito的音樂只有今天限定\n本活動由優能威志股份有限公司獨家贊助播出\n\nDJ LINEUP\nTifiy\nBetty\nTamato_poi\nYan-K\nKento\nIIka",
-   "time_start": "2026-07-25 12:00:00+00",
-   "time_end": "2026-07-25 16:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "UNWelcomeZ",
-   "type": "music",
-   "group_id": "grp_519b637b-c5b8-4d5c-a024-e5b688fc45d7",
-   "poster": "/img/0/poster.jpg",
-   "tags": [],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false,
-   "owner_id": "eLq9HFXAHTUaoH3BCR7H9BHmaNKYXQZL"
-  },
-  {
    "id": "cf738ad1-a873-4abf-bb70-427ff9aae0c1",
    "title": "週游社[哈]",
    "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
@@ -27,7 +10,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -48,7 +31,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -71,7 +54,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -92,7 +75,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -116,7 +99,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -139,7 +122,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -150,5 +133,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-07-25T15:02:34.104Z"
+ "updated_at": "2026-07-25T16:02:34.033Z"
 }
