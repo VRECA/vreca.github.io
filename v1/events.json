@@ -54,7 +54,7 @@
    "instance_type": "group_public",
    "group_name": "VCS社群太空站",
    "type": "comm",
-   "group_id": "VCS.2779",
+   "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
    "poster": "/img/2/poster.jpg",
    "tags": [],
    "platform": "pq",
@@ -149,5 +149,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-07-28T12:17:52.493Z"
+ "updated_at": "2026-07-29T17:32:32.545Z"
 }
