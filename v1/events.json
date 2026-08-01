@@ -1,22 +1,6 @@
 {
  "data": [
   {
-   "id": "af59de18-230d-4a04-8941-0bc12627aaa8",
-   "title": "VCS社群太空站 每月例行聚會#45",
-   "description": "活動地圖搜尋\"VCS\"，每個月的第一個星期六晚上21:00~ (GMT+8)，\n讓各個社團、創作者介紹發表自己最新的活動和作品。",
-   "time_start": "2026-08-01 13:00:00+00",
-   "time_end": "2026-08-01 13:30:00+00",
-   "instance_type": "group_public",
-   "group_name": "VCS社群太空站",
-   "type": "comm",
-   "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
-   "poster": "/img/0/poster.jpg",
-   "tags": [],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "b44aed73-e7ad-43ef-9ea5-3d8d1e1d72ad",
    "title": "週遊社[射]",
    "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
@@ -26,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -49,7 +33,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -69,7 +53,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -90,7 +74,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -113,7 +97,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -134,7 +118,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -149,5 +133,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-07-31T15:02:43.767Z"
+ "updated_at": "2026-08-01T13:32:49.458Z"
 }
