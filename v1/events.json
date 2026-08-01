@@ -1,29 +1,6 @@
 {
  "data": [
   {
-   "id": "b44aed73-e7ad-43ef-9ea5-3d8d1e1d72ad",
-   "title": "週遊社[射]",
-   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
-   "time_start": "2026-08-01 13:00:00+00",
-   "time_end": "2026-08-01 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "射擊",
-    "Airsoft",
-    "Speedsoft",
-    "PVP"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "30b81e9a-bf83-4c8a-9a6a-85b9855feba5",
    "title": "週遊社[遊]",
    "description": "活動內容：遊玩各種不同的VRC地圖\n注意事項：歡迎任何想玩遊戲的人，有VR的人更能玩得盡興，根據地圖內容來限制人數，且可能沒有VR會無法遊玩。活動過程中請保持尊重、包容、友善，並盡量優化模型，模型大小小於50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -33,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -53,7 +30,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -74,7 +51,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -97,7 +74,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -118,7 +95,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -131,7 +108,30 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "f7bb0669-62a7-4b32-bae5-6267b7284d79",
+   "title": "週遊社[射]",
+   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
+   "time_start": "2026-08-08 13:00:00+00",
+   "time_end": "2026-08-08 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/5/poster.jpg",
+   "tags": [
+    "射擊",
+    "Airsoft",
+    "Speedsoft",
+    "PVP"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-08-01T13:32:49.458Z"
+ "updated_at": "2026-08-01T14:02:49.517Z"
 }
