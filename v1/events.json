@@ -1,27 +1,6 @@
 {
  "data": [
   {
-   "id": "9115a189-d58e-47af-8eaf-cfa179bc1635",
-   "title": "週游社[哈]",
-   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
-   "time_start": "2026-08-23 13:00:00+00",
-   "time_end": "2026-08-23 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "comm",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "書籍",
-    "聊天"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "9a3703ce-1901-4633-a85e-0f776eea0391",
    "title": "週遊社[公]",
    "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -31,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -54,7 +33,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -75,7 +54,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -99,7 +78,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -122,9 +101,30 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "遊戲"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "031c5d3a-c2d9-46bb-b9e5-104bdee03c59",
+   "title": "週游社[哈]",
+   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
+   "time_start": "2026-08-30 13:00:00+00",
+   "time_end": "2026-08-30 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "comm",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/5/poster.jpg",
+   "tags": [
+    "書籍",
+    "聊天"
    ],
    "platform": "p",
    "recurring_mode": "week",
@@ -149,5 +149,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-08-22T15:04:31.102Z"
+ "updated_at": "2026-08-23T14:04:35.255Z"
 }
