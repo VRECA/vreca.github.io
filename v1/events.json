@@ -126,7 +126,28 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "54e22eb6-e6e9-4b77-90bf-8b4232919e4b",
+   "title": "週游社[哈]",
+   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
+   "time_start": "2026-09-06 13:00:00+00",
+   "time_end": "2026-09-06 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "comm",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/6/poster.jpg",
+   "tags": [
+    "書籍",
+    "聊天"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-08-30T14:00:04.955Z"
+ "updated_at": "2026-08-30T14:05:04.948Z"
 }
