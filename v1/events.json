@@ -46,22 +46,6 @@
    "cancelled": false
   },
   {
-   "id": "455b9e1d-1227-4174-9c7c-30d4b8563479",
-   "title": "VCS社群太空站 每月例行聚會#46",
-   "description": "活動地圖搜尋\"VCS\"，每個月的第一個星期六晚上21:00~ (GMT+8)，\n讓各個社團、創作者介紹發表自己最新的活動和作品。",
-   "time_start": "2026-09-05 13:00:00+00",
-   "time_end": "2026-09-05 13:30:00+00",
-   "instance_type": "group_public",
-   "group_name": "VCS社群太空站",
-   "type": "comm",
-   "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
-   "poster": "/img/2/poster.jpg",
-   "tags": [],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "7db445ed-98cb-4a35-b1f2-e14de6ca7382",
    "title": "週遊社[射]",
    "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
@@ -71,7 +55,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -82,6 +66,22 @@
    "recurring_mode": "week",
    "recurring_number": 1,
    "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "455b9e1d-1227-4174-9c7c-30d4b8563479",
+   "title": "VCS社群太空站 每月例行聚會#46",
+   "description": "活動地圖搜尋\"VCS\"，每個月的第一個星期六晚上21:00~ (GMT+8)，\n讓各個社團、創作者介紹發表自己最新的活動和作品。",
+   "time_start": "2026-09-05 13:00:00+00",
+   "time_end": "2026-09-05 13:30:00+00",
+   "instance_type": "group_public",
+   "group_name": "VCS社群太空站",
+   "type": "comm",
+   "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
+   "poster": "/img/3/poster.jpg",
+   "tags": [],
+   "platform": "pq",
+   "recurring_complete": true,
    "cancelled": false
   },
   {
@@ -124,7 +124,30 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "215c1949-68c1-4a14-bf38-24d1179ea977",
+   "title": "週遊社[公]",
+   "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-09-06 14:00:00+00",
+   "time_end": "2026-09-06 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/6/poster.jpg",
+   "tags": [
+    "遊戲",
+    "任務",
+    "挑戰",
+    "PVE"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-08-30T15:00:11.871Z"
+ "updated_at": "2026-08-30T15:05:09.871Z"
 }
