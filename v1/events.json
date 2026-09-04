@@ -1,30 +1,6 @@
 {
  "data": [
   {
-   "id": "c35d693e-3fe2-418d-8cf7-eb28a51fb64b",
-   "title": "週遊社[戰]",
-   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
-   "time_start": "2026-09-04 14:00:00+00",
-   "time_end": "2026-09-04 15:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "兵器",
-    "戰鬥",
-    "迷宮",
-    "遊戲",
-    "PVP"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "455b9e1d-1227-4174-9c7c-30d4b8563479",
    "title": "VCS社群太空站 每月例行聚會#46",
    "description": "活動地圖搜尋\"VCS\"，每個月的第一個星期六晚上21:00~ (GMT+8)，\n讓各個社團、創作者介紹發表自己最新的活動和作品。",
@@ -34,7 +10,7 @@
    "group_name": "VCS社群太空站",
    "type": "comm",
    "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
@@ -50,7 +26,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -73,7 +49,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -93,7 +69,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -114,7 +90,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -137,7 +113,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -159,7 +135,7 @@
    "type": "gather",
    "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
    "cal_id": "cal_b1977c3f-4ffe-47a5-9064-1829bdbe784e",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "台港澳VRC交流會"
    ],
@@ -169,5 +145,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-09-04T14:05:27.640Z"
+ "updated_at": "2026-09-04T15:00:30.359Z"
 }
