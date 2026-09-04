@@ -128,6 +128,27 @@
    "cancelled": false
   },
   {
+   "id": "7e798cd5-ee03-4b32-b32e-145b04113691",
+   "title": "週遊社[廳]",
+   "description": "活動內容：咖啡、酒精、遊戲、聊天\n活動特點：櫃台陪聊，專人帶玩，在無聊的VRC生活中增添一點樂趣\n注意事項：請使用50MB以內的模型\n相關連結：請參考X․com＠PAEW_VRC",
+   "time_start": "2026-09-11 13:00:00+00",
+   "time_end": "2026-09-11 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "gather",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/6/poster.jpg",
+   "tags": [
+    "咖啡廳",
+    "桌遊"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
    "id": "114c146b-47fc-4642-b5ab-e5bb6d13fc51",
    "title": "台港澳VRC交流會（2026年9月份）",
    "description": "・每月舉辦一次的 VRChat 社群交流活動\n・提供安心、友善的交流環境\n・認識新朋友、接觸不同圈子與文化\n・設有話題配對TAG系統，方便破冰聊天\n・多個房間同步進行， 可自由往返",
@@ -138,7 +159,7 @@
    "type": "gather",
    "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
    "cal_id": "cal_b1977c3f-4ffe-47a5-9064-1829bdbe784e",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "台港澳VRC交流會"
    ],
@@ -148,5 +169,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-09-04T14:00:27.340Z"
+ "updated_at": "2026-09-04T14:05:27.640Z"
 }
