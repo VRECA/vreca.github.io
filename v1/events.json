@@ -131,7 +131,27 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "64e1c589-177e-4105-b4c0-2121fa005fe7",
+   "title": "週遊社[遊]",
+   "description": "活動內容：遊玩各種不同的VRC地圖\n注意事項：歡迎任何想玩遊戲的人，有VR的人更能玩得盡興，根據地圖內容來限制人數，且可能沒有VR會無法遊玩。活動過程中請保持尊重、包容、友善，並盡量優化模型，模型大小小於50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-09-12 14:00:00+00",
+   "time_end": "2026-09-12 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/6/poster.jpg",
+   "tags": [
+    "遊戲"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-09-05T15:00:38.331Z"
+ "updated_at": "2026-09-05T15:05:45.789Z"
 }
