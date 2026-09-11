@@ -177,7 +177,26 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "d615cb52-4ca6-4834-9b75-4d3d56472d2b",
+   "title": "IN/UNReal 5th anniversary party",
+   "description": "line up : IN/UNReal regular & Friends",
+   "time_start": "2026-09-26 12:00:00+00",
+   "time_end": "2026-09-26 16:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "IN/UNReal",
+   "type": "dj",
+   "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
+   "poster": "/img/8/poster.jpg",
+   "tags": [
+    "INUNReal"
+   ],
+   "platform": "p",
+   "recurring_complete": true,
+   "cancelled": false,
+   "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-09-09T15:25:35.989Z"
+ "updated_at": "2026-09-11T06:15:43.088Z"
 }
