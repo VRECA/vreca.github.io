@@ -1,26 +1,6 @@
 {
  "data": [
   {
-   "id": "114c146b-47fc-4642-b5ab-e5bb6d13fc51",
-   "title": "台港澳VRC交流會（2026年9月份）",
-   "description": "・每月舉辦一次的 VRChat 社群交流活動\n・提供安心、友善的交流環境\n・認識新朋友、接觸不同圈子與文化\n・設有話題配對TAG系統，方便破冰聊天\n・多個房間同步進行， 可自由往返",
-   "time_start": "2026-09-12 13:00:00+00",
-   "time_end": "2026-09-12 14:30:00+00",
-   "instance_type": "group_plus",
-   "group_name": "台港澳VRC活動文化推廣協會",
-   "type": "gather",
-   "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
-   "cal_id": "cal_b1977c3f-4ffe-47a5-9064-1829bdbe784e",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "台港澳VRC交流會"
-   ],
-   "platform": "p",
-   "recurring_complete": true,
-   "cancelled": false,
-   "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
-  },
-  {
    "id": "64e1c589-177e-4105-b4c0-2121fa005fe7",
    "title": "週遊社[遊]",
    "description": "活動內容：遊玩各種不同的VRC地圖\n注意事項：歡迎任何想玩遊戲的人，有VR的人更能玩得盡興，根據地圖內容來限制人數，且可能沒有VR會無法遊玩。活動過程中請保持尊重、包容、友善，並盡量優化模型，模型大小小於50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -30,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -50,7 +30,7 @@
    "group_name": "ACG音樂大考試",
    "type": "game",
    "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲",
     "音樂",
@@ -76,7 +56,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -97,7 +77,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -120,7 +100,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -141,7 +121,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -165,7 +145,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -188,7 +168,7 @@
    "group_name": "IN/UNReal",
    "type": "dj",
    "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "INUNReal",
     "#vrdj"
@@ -199,5 +179,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-09-12T14:00:50.747Z"
+ "updated_at": "2026-09-12T14:30:49.036Z"
 }
