@@ -1,32 +1,6 @@
 {
  "data": [
   {
-   "id": "ace5ccc2-747a-417e-aebb-9843442fa2ac",
-   "title": "【50000人感謝活動】猜歌交流夜",
-   "description": "【感謝活動舉辦】ACG音樂大考試訪問人數突破50000人！\n為了感謝各位的遊玩，將舉辦第一次活動「猜歌交流夜」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n\n房間類型：Gruop＋\n報名連結：請見群組連結！",
-   "time_start": "2026-09-12 14:30:00+00",
-   "time_end": "2026-09-12 15:30:00+00",
-   "instance_type": "group_plus",
-   "group_name": "ACG音樂大考試",
-   "type": "game",
-   "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "遊戲",
-    "音樂",
-    "動畫",
-    "VOCALOID",
-    "測驗",
-    "考試",
-    "交流",
-    "聊天",
-    "猜歌,"
-   ],
-   "platform": "p",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "efa64d08-f491-4ee6-9b19-cf43e29f12c1",
    "title": "週游社[哈]",
    "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
@@ -36,7 +10,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -57,7 +31,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -80,7 +54,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -101,7 +75,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -125,7 +99,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -148,7 +122,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -168,7 +142,7 @@
    "group_name": "IN/UNReal",
    "type": "dj",
    "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "INUNReal",
     "#vrdj"
@@ -179,5 +153,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-09-12T15:02:17.791Z"
+ "updated_at": "2026-09-12T15:30:50.118Z"
 }
