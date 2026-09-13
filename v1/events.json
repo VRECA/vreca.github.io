@@ -112,6 +112,27 @@
    "cancelled": false
   },
   {
+   "id": "8731d877-19f0-4033-abcb-dde7aa9165fb",
+   "title": "週游社[哈]",
+   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
+   "time_start": "2026-09-20 13:00:00+00",
+   "time_end": "2026-09-20 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "comm",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/5/poster.jpg",
+   "tags": [
+    "書籍",
+    "聊天"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
    "id": "d615cb52-4ca6-4834-9b75-4d3d56472d2b",
    "title": "IN/UNReal 5th anniversary party",
    "description": "line up : IN/UNReal regular & Friends",
@@ -121,7 +142,7 @@
    "group_name": "IN/UNReal",
    "type": "dj",
    "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "INUNReal",
     "#vrdj"
@@ -132,5 +153,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-09-13T14:00:53.294Z"
+ "updated_at": "2026-09-13T14:05:53.483Z"
 }
