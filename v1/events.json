@@ -110,6 +110,29 @@
    "cancelled": false
   },
   {
+   "id": "8460de40-91f5-4b2d-abbe-8568e24dc78e",
+   "title": "週遊社[公]",
+   "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-09-20 14:00:00+00",
+   "time_end": "2026-09-20 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/5/poster.jpg",
+   "tags": [
+    "遊戲",
+    "任務",
+    "挑戰",
+    "PVE"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
    "id": "d615cb52-4ca6-4834-9b75-4d3d56472d2b",
    "title": "IN/UNReal 5th anniversary party",
    "description": "line up : IN/UNReal regular & Friends",
@@ -119,7 +142,7 @@
    "group_name": "IN/UNReal",
    "type": "dj",
    "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "INUNReal",
     "#vrdj"
@@ -130,5 +153,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-09-13T15:00:53.445Z"
+ "updated_at": "2026-09-13T15:05:53.657Z"
 }
