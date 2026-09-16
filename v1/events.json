@@ -153,6 +153,25 @@
    "cancelled": false
   },
   {
+   "id": "32b0b905-7ce8-4f4e-8504-8dc96b2139ae",
+   "title": "七曲下行錦標賽|VRC賽車俱樂部|第二賽季|Sacc",
+   "description": "第二賽季第 7 站，Sacc 七曲 Downhill 路線錦標賽。本場特別開放新手友善場次，歡迎剛入門的車手一起參加。開始時間、詳細賽制與車輛限制請見下方時程與規則。\n\n採現場報到，不強制事前報名。\n參賽者應在 21:00–21:40 進入活動房間並完成練習與報到。\n本場為新手友善場次，歡迎剛入門的車手一起參加；人數較多時優先安排準時到場、已完成練習且可配合賽程者。\n\n避免逆走、惡意干擾、刻意阻擋或影響其他選手。\n缺席、卡車、重生或路線爭議由主辦或裁判依現場情況判定。\n最終賽制、對戰表與結果以現場主辦判定為準。",
+   "time_start": "2026-09-25 14:00:00+00",
+   "time_end": "2026-09-25 15:59:00+00",
+   "instance_type": "group_public",
+   "group_name": "VRC 賽車俱樂部",
+   "type": "game",
+   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
+   "poster": "/img/7/poster.jpg",
+   "tags": [
+    "InitialD",
+    "跑山"
+   ],
+   "platform": "pq",
+   "recurring_complete": true,
+   "cancelled": false
+  },
+  {
    "id": "d615cb52-4ca6-4834-9b75-4d3d56472d2b",
    "title": "IN/UNReal 5th anniversary party",
    "description": "LINE UP:\n\n≻ REGULAR\nLR163\nCrossBoneMan\nYMTaiyou\nTamato_poi\nSouyaP\n\n≻ GUEST\nVanilleAltzy\n九弥⁄Kuya\n\n≻ VJ\nmio9",
@@ -162,7 +181,7 @@
    "group_name": "IN/UNReal",
    "type": "dj",
    "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/8/poster.jpg",
    "tags": [
     "INUNReal",
     "#vrdj"
@@ -183,12 +202,12 @@
    "type": "comm",
    "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
    "cal_id": "cal_cf209e7b-f86a-43d5-b3f9-a605e98cb3fc",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/9/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
    "cancelled": false
   }
  ],
- "updated_at": "2026-09-16T18:01:07.613Z"
+ "updated_at": "2026-09-16T18:11:07.803Z"
 }
