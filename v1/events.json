@@ -207,7 +207,30 @@
    "platform": "pq",
    "recurring_complete": true,
    "cancelled": false
+  },
+  {
+   "id": "d79d0ccd-5a86-4d17-bf72-d9f8d832d31b",
+   "title": "玉長公路賽道日",
+   "description": "自由駕駛、刷成績、聊天，歡迎大家一起來玉長公路跑山！本場為休閒性質，世界目前仍在測試階段，僅開放 VRC 賽車俱樂部 Group Instance。",
+   "time_start": "2026-10-03 14:00:00+00",
+   "time_end": "2026-10-03 15:59:00+00",
+   "instance_type": "group_plus",
+   "group_name": "VRC賽車俱樂部 racing club TW",
+   "type": "game",
+   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
+   "cal_id": "cal_6591a69e-f433-44b9-b141-5fa93ffcd540",
+   "poster": "/img/10/poster.jpg",
+   "tags": [
+    "ProjectT",
+    "臺灣",
+    "花蓮",
+    "臺東",
+    "山道猴子"
+   ],
+   "platform": "pq",
+   "recurring_complete": true,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-09-16T18:11:07.803Z"
+ "updated_at": "2026-09-17T12:06:11.762Z"
 }
