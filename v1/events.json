@@ -22,6 +22,26 @@
    "cancelled": false
   },
   {
+   "id": "d1f3b3ba-79ea-48c7-9354-9212633ad75a",
+   "title": "神留坂計時賽|VRC賽車俱樂部|第二賽季|CVS2",
+   "description": "第二賽季第 6 站，CVS 神留坂計時賽。神留坂是以高速彎與髮夾彎聞名的長程環狀山道，考驗車輛穩定性與煞車節奏。活動期間可不限次數挑戰，以世界 UI 的有效時間排序。\n\n採現場報到，不強制事前報名。\n參賽者於 22:00 進入活動房間，在指定時段內可不限次數挑戰。\n\n賽道無碰撞，但請避免惡意跟車。\n有效成績與排名以現場世界 UI 判定為準。\n跑序、嘗試次數與成績計算可由主辦依現場狀況調整。",
+   "time_start": "2026-09-20 14:00:00+00",
+   "time_end": "2026-09-20 15:59:00+00",
+   "instance_type": "group_public",
+   "group_name": "VRC 賽車俱樂部",
+   "type": "game",
+   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
+   "poster": "/img/1/poster.jpg",
+   "tags": [
+    "InitialD",
+    "賽車",
+    "TIME_ATTACK"
+   ],
+   "platform": "p",
+   "recurring_complete": true,
+   "cancelled": false
+  },
+  {
    "id": "8460de40-91f5-4b2d-abbe-8568e24dc78e",
    "title": "週遊社[公]",
    "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -31,7 +51,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -42,26 +62,6 @@
    "recurring_mode": "week",
    "recurring_number": 1,
    "recurring_complete": false,
-   "cancelled": false
-  },
-  {
-   "id": "d1f3b3ba-79ea-48c7-9354-9212633ad75a",
-   "title": "神留坂計時賽|VRC賽車俱樂部|第二賽季|CVS2",
-   "description": "第二賽季第 6 站，CVS 神留坂計時賽。神留坂是以高速彎與髮夾彎聞名的長程環狀山道，考驗車輛穩定性與煞車節奏。活動期間可不限次數挑戰，以世界 UI 的有效時間排序。\n\n採現場報到，不強制事前報名。\n參賽者於 22:00 進入活動房間，在指定時段內可不限次數挑戰。\n\n賽道無碰撞，但請避免惡意跟車。\n有效成績與排名以現場世界 UI 判定為準。\n跑序、嘗試次數與成績計算可由主辦依現場狀況調整。",
-   "time_start": "2026-09-20 14:00:00+00",
-   "time_end": "2026-09-20 15:59:00+00",
-   "instance_type": "group_public",
-   "group_name": "VRC 賽車俱樂部",
-   "type": "game",
-   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
-   "poster": "/img/2/poster.jpg",
-   "tags": [
-    "InitialD",
-    "賽車",
-    "TIME_ATTACK"
-   ],
-   "platform": "p",
-   "recurring_complete": true,
    "cancelled": false
   },
   {
@@ -192,6 +192,27 @@
    "cancelled": false
   },
   {
+   "id": "337da17a-6711-4536-b042-358e4ac1ef39",
+   "title": "阿德勒心理學沉浸式讀書會｜《為愛徬徨的勇氣》精讀第一夜：為什麼戀愛無法帶來幸福？",
+   "description": "「人類所有的煩惱來自人際關係，但所有的喜悅也全來自人際關係。」\n\n告別了《被討厭的勇氣》的哲學論辯，這次我們深入最真實、最柔軟的親密關係領域。\n為什麼我們常感嘆「生活圈太小、遇不到對的人」？阿德勒心理學直言：這往往只是為了迴避受傷風險所捏造的藉口。\n\n在這場 90 分鐘的沉浸式讀書會中，我們將透過岸見一郎的經典案例，拆解「害怕告白、不談沒勝算的戀愛、早期記憶對關係的影響，以及愛是技術而非衝動」等核心盲點。\n\n✦ 活動特色：\n1. 特製 VRChat 貼圖看板：核心概念、生活案例一目了然。\n2. 零社交壓力：尊重課題分離，完全自由選擇開麥，閉麥靜聽或使用 Chatbox 文字交流皆大歡迎。\n3. 引導者橫向示範：不說教、不評判，透過真實心態轉折陪伴大家共同思考。\n\n✦ 進房與防干擾機制：\n房型為 Friends+，請先於遊戲內加主辦人好友，活動前 15 分鐘開放 Join 入場。為維護空間專注度與交流品質，活動開始 15 分鐘後將鎖房，敬請準時入場。",
+   "time_start": "2026-10-03 11:20:00+00",
+   "time_end": "2026-10-03 13:00:00+00",
+   "instance_type": "group",
+   "group_name": "VRC阿德勒同好會",
+   "type": "talk",
+   "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
+   "poster": "/img/9/poster.jpg",
+   "tags": [
+    "正念",
+    "人際關係",
+    "阿德勒工作坊"
+   ],
+   "platform": "pq",
+   "recurring_complete": true,
+   "cancelled": false,
+   "owner_id": "N3bvQq0xN43PEgibF3TonONRYrpWWQzA"
+  },
+  {
    "id": "a2713914-bf1f-424a-9f7b-52cf02408e4f",
    "title": "VCS月例行聚會",
    "description": "太空站例行聚會 玩家創作交流、社群分享、歡迎大家一起來！",
@@ -202,7 +223,7 @@
    "type": "comm",
    "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
    "cal_id": "cal_cf209e7b-f86a-43d5-b3f9-a605e98cb3fc",
-   "poster": "/img/9/poster.jpg",
+   "poster": "/img/10/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
@@ -219,7 +240,7 @@
    "type": "game",
    "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
    "cal_id": "cal_6591a69e-f433-44b9-b141-5fa93ffcd540",
-   "poster": "/img/10/poster.jpg",
+   "poster": "/img/11/poster.jpg",
    "tags": [
     "ProjectT",
     "臺灣",
@@ -232,5 +253,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-09-19T15:01:21.703Z"
+ "updated_at": "2026-09-20T01:16:23.521Z"
 }
