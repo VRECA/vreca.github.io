@@ -1,29 +1,6 @@
 {
  "data": [
   {
-   "id": "8460de40-91f5-4b2d-abbe-8568e24dc78e",
-   "title": "週遊社[公]",
-   "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
-   "time_start": "2026-09-20 14:00:00+00",
-   "time_end": "2026-09-20 15:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "遊戲",
-    "任務",
-    "挑戰",
-    "PVE"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "d1f3b3ba-79ea-48c7-9354-9212633ad75a",
    "title": "神留坂計時賽|VRC賽車俱樂部|第二賽季|CVS2",
    "description": "第二賽季第 6 站，CVS 神留坂計時賽。神留坂是以高速彎與髮夾彎聞名的長程環狀山道，考驗車輛穩定性與煞車節奏。活動期間可不限次數挑戰，以世界 UI 的有效時間排序。\n\n採現場報到，不強制事前報名。\n參賽者於 22:00 進入活動房間，在指定時段內可不限次數挑戰。\n\n賽道無碰撞，但請避免惡意跟車。\n有效成績與排名以現場世界 UI 判定為準。\n跑序、嘗試次數與成績計算可由主辦依現場狀況調整。",
@@ -33,7 +10,7 @@
    "group_name": "VRC 賽車俱樂部",
    "type": "game",
    "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "InitialD",
     "賽車",
@@ -53,7 +30,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -74,7 +51,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -98,7 +75,7 @@
    "group_name": "VRC 賽車俱樂部",
    "type": "game",
    "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "InitialD",
     "跑山"
@@ -117,7 +94,7 @@
    "group_name": "IN/UNReal",
    "type": "dj",
    "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "INUNReal",
     "#vrdj"
@@ -137,7 +114,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -160,7 +137,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -180,10 +157,33 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "0aac74f3-460d-4279-9b7e-dc82935bf712",
+   "title": "週遊社[公]",
+   "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-09-27 14:00:00+00",
+   "time_end": "2026-09-27 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/8/poster.jpg",
+   "tags": [
+    "遊戲",
+    "任務",
+    "挑戰",
+    "PVE"
    ],
    "platform": "p",
    "recurring_mode": "week",
@@ -253,5 +253,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-09-20T14:01:26.033Z"
+ "updated_at": "2026-09-20T15:01:26.283Z"
 }
