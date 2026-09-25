@@ -1,25 +1,6 @@
 {
  "data": [
   {
-   "id": "32b0b905-7ce8-4f4e-8504-8dc96b2139ae",
-   "title": "七曲下行錦標賽|VRC賽車俱樂部|第二賽季|Sacc",
-   "description": "第二賽季第 7 站，Sacc 七曲 Downhill 路線錦標賽。本場特別開放新手友善場次，歡迎剛入門的車手一起參加。開始時間、詳細賽制與車輛限制請見下方時程與規則。\n\n採現場報到，不強制事前報名。\n參賽者應在 21:00–21:40 進入活動房間並完成練習與報到。\n本場為新手友善場次，歡迎剛入門的車手一起參加；人數較多時優先安排準時到場、已完成練習且可配合賽程者。\n\n避免逆走、惡意干擾、刻意阻擋或影響其他選手。\n缺席、卡車、重生或路線爭議由主辦或裁判依現場情況判定。\n最終賽制、對戰表與結果以現場主辦判定為準。",
-   "time_start": "2026-09-25 14:00:00+00",
-   "time_end": "2026-09-25 15:59:00+00",
-   "instance_type": "group_public",
-   "group_name": "VRC 賽車俱樂部",
-   "type": "game",
-   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "InitialD",
-    "跑山"
-   ],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "d615cb52-4ca6-4834-9b75-4d3d56472d2b",
    "title": "IN/UNReal 5th anniversary party",
    "description": "LINE UP:\n\n≻ REGULAR\nLR163\nCrossBoneMan\nYMTaiyou\nTamato_poi\nSouyaP\n\n≻ GUEST\nVanilleAltzy\n九弥⁄Kuya\n\n≻ VJ\nmio9",
@@ -29,7 +10,7 @@
    "group_name": "IN/UNReal",
    "type": "dj",
    "group_id": "grp_0d151b7f-8178-4f98-9f34-65eb43f2d7f6",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "INUNReal",
     "#vrdj"
@@ -49,7 +30,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -72,7 +53,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -80,6 +61,27 @@
    "recurring_mode": "week",
    "recurring_number": 1,
    "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "e784485f-2c64-4ae5-af94-7e17c8ee0734",
+   "title": "【3000人收藏人感謝活動】猜歌交流夜「第二彈」！",
+   "description": "【感謝活動舉辦】ACG音樂大考試收藏人數達到3000人！\n為了感謝各位的遊玩，將舉辦活動：猜歌交流夜「第二彈」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n房間類型：Gruop＋\n報名連結：https˸⁄⁄cloud․ketw09․com⁄apps⁄forms⁄s⁄8R4iqsETj2mLZj2niQRE4o2y\n群組連結：https://vrc.group/ACG.0417",
+   "time_start": "2026-09-27 13:00:00+00",
+   "time_end": "2026-09-27 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "ACG音樂大考試",
+   "type": "game",
+   "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
+   "poster": "/img/3/poster.jpg",
+   "tags": [
+    "音樂",
+    "遊戲",
+    "動畫",
+    "VOCALOID"
+   ],
+   "platform": "p",
+   "recurring_complete": true,
    "cancelled": false
   },
   {
@@ -104,27 +106,6 @@
    "cancelled": false
   },
   {
-   "id": "e784485f-2c64-4ae5-af94-7e17c8ee0734",
-   "title": "【3000人收藏人感謝活動】猜歌交流夜「第二彈」！",
-   "description": "【感謝活動舉辦】ACG音樂大考試收藏人數達到3000人！\n為了感謝各位的遊玩，將舉辦活動：猜歌交流夜「第二彈」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n房間類型：Gruop＋\n報名連結：https˸⁄⁄cloud․ketw09․com⁄apps⁄forms⁄s⁄8R4iqsETj2mLZj2niQRE4o2y\n群組連結：https://vrc.group/ACG.0417",
-   "time_start": "2026-09-27 13:00:00+00",
-   "time_end": "2026-09-27 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "ACG音樂大考試",
-   "type": "game",
-   "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
-   "poster": "/img/5/poster.jpg",
-   "tags": [
-    "音樂",
-    "遊戲",
-    "動畫",
-    "VOCALOID"
-   ],
-   "platform": "p",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "0aac74f3-460d-4279-9b7e-dc82935bf712",
    "title": "週遊社[公]",
    "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -134,7 +115,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -157,7 +138,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -178,7 +159,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -202,7 +183,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/9/poster.jpg",
+   "poster": "/img/8/poster.jpg",
    "tags": [
     "正念",
     "人際關係",
@@ -224,7 +205,7 @@
    "type": "comm",
    "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
    "cal_id": "cal_cf209e7b-f86a-43d5-b3f9-a605e98cb3fc",
-   "poster": "/img/10/poster.jpg",
+   "poster": "/img/9/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
@@ -241,7 +222,7 @@
    "type": "game",
    "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
    "cal_id": "cal_6591a69e-f433-44b9-b141-5fa93ffcd540",
-   "poster": "/img/11/poster.jpg",
+   "poster": "/img/10/poster.jpg",
    "tags": [
     "ProjectT",
     "臺灣",
@@ -254,5 +235,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-09-25T15:01:49.088Z"
+ "updated_at": "2026-09-25T16:01:49.549Z"
 }
