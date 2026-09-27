@@ -22,27 +22,6 @@
    "cancelled": false
   },
   {
-   "id": "e784485f-2c64-4ae5-af94-7e17c8ee0734",
-   "title": "【3000人收藏人感謝活動】猜歌交流夜「第二彈」！",
-   "description": "【感謝活動舉辦】ACG音樂大考試收藏人數達到3000人！\n為了感謝各位的遊玩，將舉辦活動：猜歌交流夜「第二彈」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n房間類型：Gruop＋\n報名連結：https˸⁄⁄cloud․ketw09․com⁄apps⁄forms⁄s⁄8R4iqsETj2mLZj2niQRE4o2y\n群組連結：https://vrc.group/ACG.0417",
-   "time_start": "2026-09-27 13:00:00+00",
-   "time_end": "2026-09-27 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "ACG音樂大考試",
-   "type": "game",
-   "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
-   "poster": "/img/1/poster.jpg",
-   "tags": [
-    "音樂",
-    "遊戲",
-    "動畫",
-    "VOCALOID"
-   ],
-   "platform": "p",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "0aac74f3-460d-4279-9b7e-dc82935bf712",
    "title": "週遊社[公]",
    "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -52,7 +31,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -75,7 +54,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -96,7 +75,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -120,7 +99,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "正念",
     "人際關係",
@@ -141,7 +120,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
@@ -158,7 +137,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -182,8 +161,31 @@
    "type": "comm",
    "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
    "cal_id": "cal_cf209e7b-f86a-43d5-b3f9-a605e98cb3fc",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [],
+   "platform": "pq",
+   "recurring_complete": true,
+   "cancelled": false
+  },
+  {
+   "id": "d79d0ccd-5a86-4d17-bf72-d9f8d832d31b",
+   "title": "玉長公路賽道日",
+   "description": "自由駕駛、刷成績、聊天，歡迎大家一起來玉長公路跑山！本場為休閒性質，世界目前仍在測試階段，僅開放 VRC 賽車俱樂部 Group Instance。",
+   "time_start": "2026-10-03 14:00:00+00",
+   "time_end": "2026-10-03 15:59:00+00",
+   "instance_type": "group_plus",
+   "group_name": "VRC賽車俱樂部 racing club TW",
+   "type": "game",
+   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
+   "cal_id": "cal_6591a69e-f433-44b9-b141-5fa93ffcd540",
+   "poster": "/img/8/poster.jpg",
+   "tags": [
+    "ProjectT",
+    "臺灣",
+    "花蓮",
+    "臺東",
+    "山道猴子"
+   ],
    "platform": "pq",
    "recurring_complete": true,
    "cancelled": false
@@ -209,28 +211,26 @@
    "cancelled": false
   },
   {
-   "id": "d79d0ccd-5a86-4d17-bf72-d9f8d832d31b",
-   "title": "玉長公路賽道日",
-   "description": "自由駕駛、刷成績、聊天，歡迎大家一起來玉長公路跑山！本場為休閒性質，世界目前仍在測試階段，僅開放 VRC 賽車俱樂部 Group Instance。",
-   "time_start": "2026-10-03 14:00:00+00",
-   "time_end": "2026-10-03 15:59:00+00",
+   "id": "e784485f-2c64-4ae5-af94-7e17c8ee0734",
+   "title": "【3000人收藏人感謝活動】猜歌交流夜「第二彈」！",
+   "description": "【感謝活動舉辦】ACG音樂大考試收藏人數達到3000人！\n為了感謝各位的遊玩，將舉辦活動：猜歌交流夜「第二彈」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n房間類型：Gruop＋\n報名連結：https˸⁄⁄cloud․ketw09․com⁄apps⁄forms⁄s⁄8R4iqsETj2mLZj2niQRE4o2y\n群組連結：https://vrc.group/ACG.0417",
+   "time_start": "2026-10-04 13:00:00+00",
+   "time_end": "2026-10-04 14:00:00+00",
    "instance_type": "group_plus",
-   "group_name": "VRC賽車俱樂部 racing club TW",
+   "group_name": "ACG音樂大考試",
    "type": "game",
-   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
-   "cal_id": "cal_6591a69e-f433-44b9-b141-5fa93ffcd540",
+   "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
    "poster": "/img/10/poster.jpg",
    "tags": [
-    "ProjectT",
-    "臺灣",
-    "花蓮",
-    "臺東",
-    "山道猴子"
+    "音樂",
+    "遊戲",
+    "動畫",
+    "VOCALOID"
    ],
-   "platform": "pq",
+   "platform": "p",
    "recurring_complete": true,
    "cancelled": false
   }
  ],
- "updated_at": "2026-09-27T00:37:01.827Z"
+ "updated_at": "2026-09-27T08:12:03.301Z"
 }
