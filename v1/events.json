@@ -1,30 +1,6 @@
 {
  "data": [
   {
-   "id": "e8de799a-8baa-4e37-8acd-b508a46e8ea9",
-   "title": "週遊社[戰]",
-   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
-   "time_start": "2026-10-02 14:00:00+00",
-   "time_end": "2026-10-02 15:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "兵器",
-    "戰鬥",
-    "迷宮",
-    "遊戲",
-    "PVP"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "337da17a-6711-4536-b042-358e4ac1ef39",
    "title": "阿德勒心理學沉浸式讀書會｜《為愛徬徨的勇氣》精讀第一夜：為什麼戀愛無法帶來幸福？",
    "description": "「人類所有的煩惱來自人際關係，但所有的喜悅也全來自人際關係。」\n\n告別了《被討厭的勇氣》的哲學論辯，這次我們深入最真實、最柔軟的親密關係領域。\n為什麼我們常感嘆「生活圈太小、遇不到對的人」？阿德勒心理學直言：這往往只是為了迴避受傷風險所捏造的藉口。\n\n在這場 90 分鐘的沉浸式讀書會中，我們將透過岸見一郎的經典案例，拆解「害怕告白、不談沒勝算的戀愛、早期記憶對關係的影響，以及愛是技術而非衝動」等核心盲點。\n\n✦ 活動特色：\n1. 特製 VRChat 貼圖看板：核心概念、生活案例一目了然。\n2. 零社交壓力：尊重課題分離，完全自由選擇開麥，閉麥靜聽或使用 Chatbox 文字交流皆大歡迎。\n3. 引導者橫向示範：不說教、不評判，透過真實心態轉折陪伴大家共同思考。\n\n✦ 進房與防干擾機制：\n房型為 Friends+，請先於遊戲內加主辦人好友，活動前 15 分鐘開放 Join 入場。為維護空間專注度與交流品質，活動開始 15 分鐘後將鎖房，敬請準時入場。",
@@ -34,7 +10,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "正念",
     "人際關係",
@@ -55,12 +31,35 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
    "cancelled": false,
    "owner_id": "N3bvQq0xN43PEgibF3TonONRYrpWWQzA"
+  },
+  {
+   "id": "48dbc01d-cf9f-4ce1-9f75-b97b679948c4",
+   "title": "週遊社[射]",
+   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
+   "time_start": "2026-10-03 13:00:00+00",
+   "time_end": "2026-10-03 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/2/poster.jpg",
+   "tags": [
+    "射擊",
+    "Airsoft",
+    "Speedsoft",
+    "PVP"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   },
   {
    "id": "a2713914-bf1f-424a-9f7b-52cf02408e4f",
@@ -80,26 +79,26 @@
    "cancelled": false
   },
   {
-   "id": "48dbc01d-cf9f-4ce1-9f75-b97b679948c4",
-   "title": "週遊社[射]",
-   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
-   "time_start": "2026-10-03 13:00:00+00",
-   "time_end": "2026-10-03 14:00:00+00",
+   "id": "d79d0ccd-5a86-4d17-bf72-d9f8d832d31b",
+   "title": "玉長公路賽道日",
+   "description": "自由駕駛、刷成績、聊天，歡迎大家一起來玉長公路跑山！本場為休閒性質，世界目前仍在測試階段，僅開放 VRC 賽車俱樂部 Group Instance。",
+   "time_start": "2026-10-03 14:00:00+00",
+   "time_end": "2026-10-03 15:59:00+00",
    "instance_type": "group_plus",
-   "group_name": "週遊社",
+   "group_name": "VRC賽車俱樂部 racing club TW",
    "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
+   "cal_id": "cal_6591a69e-f433-44b9-b141-5fa93ffcd540",
    "poster": "/img/4/poster.jpg",
    "tags": [
-    "射擊",
-    "Airsoft",
-    "Speedsoft",
-    "PVP"
+    "ProjectT",
+    "臺灣",
+    "花蓮",
+    "臺東",
+    "山道猴子"
    ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
+   "platform": "pq",
+   "recurring_complete": true,
    "cancelled": false
   },
   {
@@ -123,29 +122,6 @@
    "cancelled": false
   },
   {
-   "id": "d79d0ccd-5a86-4d17-bf72-d9f8d832d31b",
-   "title": "玉長公路賽道日",
-   "description": "自由駕駛、刷成績、聊天，歡迎大家一起來玉長公路跑山！本場為休閒性質，世界目前仍在測試階段，僅開放 VRC 賽車俱樂部 Group Instance。",
-   "time_start": "2026-10-03 14:00:00+00",
-   "time_end": "2026-10-03 15:59:00+00",
-   "instance_type": "group_plus",
-   "group_name": "VRC賽車俱樂部 racing club TW",
-   "type": "game",
-   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
-   "cal_id": "cal_6591a69e-f433-44b9-b141-5fa93ffcd540",
-   "poster": "/img/6/poster.jpg",
-   "tags": [
-    "ProjectT",
-    "臺灣",
-    "花蓮",
-    "臺東",
-    "山道猴子"
-   ],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "e784485f-2c64-4ae5-af94-7e17c8ee0734",
    "title": "【3000人收藏人感謝活動】猜歌交流夜「第二彈」！",
    "description": "【感謝活動舉辦】ACG音樂大考試收藏人數達到3000人！\n為了感謝各位的遊玩，將舉辦活動：猜歌交流夜「第二彈」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n房間類型：Gruop＋\n報名連結：https://forms.ketw09.com/form/CNrrk6rX\n群組連結：https://vrc.group/ACG.0417",
@@ -155,7 +131,7 @@
    "group_name": "ACG音樂大考試",
    "type": "game",
    "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "音樂",
     "遊戲",
@@ -176,7 +152,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -197,7 +173,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/9/poster.jpg",
+   "poster": "/img/8/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -220,7 +196,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/10/poster.jpg",
+   "poster": "/img/9/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -230,7 +206,31 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "5972834b-0f18-4a79-84c7-a6472fee79d3",
+   "title": "週遊社[戰]",
+   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-10-09 14:00:00+00",
+   "time_end": "2026-10-09 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/10/poster.jpg",
+   "tags": [
+    "兵器",
+    "戰鬥",
+    "迷宮",
+    "遊戲",
+    "PVP"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-10-02T14:02:27.913Z"
+ "updated_at": "2026-10-02T15:02:28.082Z"
 }
