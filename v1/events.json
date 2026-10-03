@@ -24,26 +24,6 @@
    "cancelled": false
   },
   {
-   "id": "0f3bd6f7-9f55-4978-b5fa-2996124bce2c",
-   "title": "週遊社[遊]",
-   "description": "活動內容：遊玩各種不同的VRC地圖\n注意事項：歡迎任何想玩遊戲的人，有VR的人更能玩得盡興，根據地圖內容來限制人數，且可能沒有VR會無法遊玩。活動過程中請保持尊重、包容、友善，並盡量優化模型，模型大小小於50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
-   "time_start": "2026-10-03 14:00:00+00",
-   "time_end": "2026-10-03 15:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
-   "tags": [
-    "遊戲"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "e784485f-2c64-4ae5-af94-7e17c8ee0734",
    "title": "【3000人收藏人感謝活動】猜歌交流夜「第二彈」！",
    "description": "【感謝活動舉辦】ACG音樂大考試收藏人數達到3000人！\n為了感謝各位的遊玩，將舉辦活動：猜歌交流夜「第二彈」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n房間類型：Gruop＋\n報名連結：https://forms.ketw09.com/form/CNrrk6rX\n群組連結：https://vrc.group/ACG.0417",
@@ -53,7 +33,7 @@
    "group_name": "ACG音樂大考試",
    "type": "game",
    "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "音樂",
     "遊戲",
@@ -74,7 +54,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -95,7 +75,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -118,7 +98,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -139,7 +119,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -163,7 +143,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -175,7 +155,27 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "3e7e2623-dc27-497b-bad2-4c437310b7dc",
+   "title": "週遊社[遊]",
+   "description": "活動內容：遊玩各種不同的VRC地圖\n注意事項：歡迎任何想玩遊戲的人，有VR的人更能玩得盡興，根據地圖內容來限制人數，且可能沒有VR會無法遊玩。活動過程中請保持尊重、包容、友善，並盡量優化模型，模型大小小於50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-10-10 14:00:00+00",
+   "time_end": "2026-10-10 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/7/poster.jpg",
+   "tags": [
+    "遊戲"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-10-03T14:02:32.157Z"
+ "updated_at": "2026-10-03T15:02:32.293Z"
 }
