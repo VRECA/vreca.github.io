@@ -1,29 +1,6 @@
 {
  "data": [
   {
-   "id": "d79d0ccd-5a86-4d17-bf72-d9f8d832d31b",
-   "title": "玉長公路賽道日",
-   "description": "自由駕駛、刷成績、聊天，歡迎大家一起來玉長公路跑山！本場為休閒性質，世界目前仍在測試階段，僅開放 VRC 賽車俱樂部 Group Instance。",
-   "time_start": "2026-10-03 14:00:00+00",
-   "time_end": "2026-10-03 15:59:00+00",
-   "instance_type": "group_plus",
-   "group_name": "VRC賽車俱樂部 racing club TW",
-   "type": "game",
-   "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
-   "cal_id": "cal_6591a69e-f433-44b9-b141-5fa93ffcd540",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "ProjectT",
-    "臺灣",
-    "花蓮",
-    "臺東",
-    "山道猴子"
-   ],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "e784485f-2c64-4ae5-af94-7e17c8ee0734",
    "title": "【3000人收藏人感謝活動】猜歌交流夜「第二彈」！",
    "description": "【感謝活動舉辦】ACG音樂大考試收藏人數達到3000人！\n為了感謝各位的遊玩，將舉辦活動：猜歌交流夜「第二彈」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n房間類型：Gruop＋\n報名連結：https://forms.ketw09.com/form/CNrrk6rX\n群組連結：https://vrc.group/ACG.0417",
@@ -33,7 +10,7 @@
    "group_name": "ACG音樂大考試",
    "type": "game",
    "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "音樂",
     "遊戲",
@@ -54,7 +31,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -75,7 +52,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -98,7 +75,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -119,7 +96,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -143,7 +120,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -166,7 +143,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -177,5 +154,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-10-03T15:02:32.293Z"
+ "updated_at": "2026-10-03T16:02:32.224Z"
 }
