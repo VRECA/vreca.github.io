@@ -1,29 +1,6 @@
 {
  "data": [
   {
-   "id": "48dbc01d-cf9f-4ce1-9f75-b97b679948c4",
-   "title": "週遊社[射]",
-   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
-   "time_start": "2026-10-03 13:00:00+00",
-   "time_end": "2026-10-03 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "射擊",
-    "Airsoft",
-    "Speedsoft",
-    "PVP"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "d79d0ccd-5a86-4d17-bf72-d9f8d832d31b",
    "title": "玉長公路賽道日",
    "description": "自由駕駛、刷成績、聊天，歡迎大家一起來玉長公路跑山！本場為休閒性質，世界目前仍在測試階段，僅開放 VRC 賽車俱樂部 Group Instance。",
@@ -34,7 +11,7 @@
    "type": "game",
    "group_id": "grp_6ed4e070-c129-4c68-bcb2-6ceab58b2a39",
    "cal_id": "cal_6591a69e-f433-44b9-b141-5fa93ffcd540",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "ProjectT",
     "臺灣",
@@ -56,7 +33,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -64,6 +41,27 @@
    "recurring_mode": "week",
    "recurring_number": 1,
    "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "e784485f-2c64-4ae5-af94-7e17c8ee0734",
+   "title": "【3000人收藏人感謝活動】猜歌交流夜「第二彈」！",
+   "description": "【感謝活動舉辦】ACG音樂大考試收藏人數達到3000人！\n為了感謝各位的遊玩，將舉辦活動：猜歌交流夜「第二彈」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n房間類型：Gruop＋\n報名連結：https://forms.ketw09.com/form/CNrrk6rX\n群組連結：https://vrc.group/ACG.0417",
+   "time_start": "2026-10-04 13:00:00+00",
+   "time_end": "2026-10-04 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "ACG音樂大考試",
+   "type": "game",
+   "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
+   "poster": "/img/2/poster.jpg",
+   "tags": [
+    "音樂",
+    "遊戲",
+    "動畫",
+    "VOCALOID"
+   ],
+   "platform": "p",
+   "recurring_complete": true,
    "cancelled": false
   },
   {
@@ -88,27 +86,6 @@
    "cancelled": false
   },
   {
-   "id": "e784485f-2c64-4ae5-af94-7e17c8ee0734",
-   "title": "【3000人收藏人感謝活動】猜歌交流夜「第二彈」！",
-   "description": "【感謝活動舉辦】ACG音樂大考試收藏人數達到3000人！\n為了感謝各位的遊玩，將舉辦活動：猜歌交流夜「第二彈」！\n請各位務必前來一起遊玩，即使不報名也可以參加！\n（若想要提交特殊音樂歌庫、獲得稱號需要報名）\n房間類型：Gruop＋\n報名連結：https://forms.ketw09.com/form/CNrrk6rX\n群組連結：https://vrc.group/ACG.0417",
-   "time_start": "2026-10-04 13:00:00+00",
-   "time_end": "2026-10-04 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "ACG音樂大考試",
-   "type": "game",
-   "group_id": "grp_ffa38a64-8827-4710-9d67-b070c6049f7e",
-   "poster": "/img/4/poster.jpg",
-   "tags": [
-    "音樂",
-    "遊戲",
-    "動畫",
-    "VOCALOID"
-   ],
-   "platform": "p",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "abceecb5-be70-4141-80c5-b88d1cda5505",
    "title": "週遊社[公]",
    "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -118,7 +95,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -141,7 +118,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -162,7 +139,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -175,7 +152,30 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "3adfc741-95e2-4e9a-a892-fd7772bfa3e9",
+   "title": "週遊社[射]",
+   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
+   "time_start": "2026-10-10 13:00:00+00",
+   "time_end": "2026-10-10 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/7/poster.jpg",
+   "tags": [
+    "射擊",
+    "Airsoft",
+    "Speedsoft",
+    "PVP"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-10-03T13:32:31.933Z"
+ "updated_at": "2026-10-03T14:02:32.157Z"
 }
