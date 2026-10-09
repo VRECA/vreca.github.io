@@ -1,30 +1,6 @@
 {
  "data": [
   {
-   "id": "5972834b-0f18-4a79-84c7-a6472fee79d3",
-   "title": "週遊社[戰]",
-   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
-   "time_start": "2026-10-09 14:00:00+00",
-   "time_end": "2026-10-09 15:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "兵器",
-    "戰鬥",
-    "迷宮",
-    "遊戲",
-    "PVP"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "daaa80f9-228e-4d2d-9ae8-ced36c95c71e",
    "title": "阿德勒心理學沉浸式讀書會｜《為愛徬徨的勇氣》第三夜：「愛人」是怎麼回事？",
    "description": "「我越是熱愛全人類，我對眼前個人的愛就越是淡薄。」——杜斯妥也夫斯基\n\n很多人在公眾場合熱心善良，回到私密關係中卻防備疏離；我們習慣列出對方的條件當作愛的理由，卻在熱情褪去時哀嘆緣分短暫。\n阿德勒心理學直言：愛不是抽象的高談闊論，更不是坐等被愛的運氣，而是一項需要每天主動承擔、為彼此關係「添加柴薪」的意志與技術。\n\n在這場 90 分鐘的沉浸式共讀會中，我們將透過岸見一郎老師的深刻剖析，直面「杜斯妥也夫斯基悖論、愛的無條件、添柴加薪的主動性，以及將主詞切換為『我們』的勇氣」。\n\n✦ 本夜精讀焦點：\n1. 杜斯妥也夫斯基悖論：看清「以崇高大愛逃避身邊具體個人」的心理防禦。\n2. 戀愛裡沒有「為什麼」：超越條件與功能的計算，如實接納對方的存在。\n3. 愛是向壁爐添加柴薪：告別被動等待的「被愛病」，主動共享生命時間。\n4. 切換主詞為「我們」：擺脫自我中心的得失牢籠，實現精神上的自立。\n\n✦ 空間守則與特色：\n1. 特製看板引導：圖文對照，脈絡清晰好理解。\n2. 零社交壓力：徹底尊重課題分離，絕不強迫開麥，全程閉麥聆聽或 Chatbox 打字皆大歡迎。\n3. 平等橫向場域：不說教、不評判，引導者以真實反思陪伴大家共同探索。\n\n✦ 入場須知：\n房型為 Friends+，請先於 VRChat 內加主辦人好友（ID：神奇狗狗），活動前 15 分鐘開放 Join 入場。為維護交流品質，活動開始 15 分鐘後將鎖房，敬請準時入場。",
@@ -34,7 +10,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "讀書會",
     "阿德勒",
@@ -57,7 +33,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -80,7 +56,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -100,7 +76,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -121,7 +97,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -144,10 +120,34 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "ad55a206-98b5-43c5-8d18-a269e2a5e64c",
+   "title": "週遊社[戰]",
+   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-10-16 14:00:00+00",
+   "time_end": "2026-10-16 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/6/poster.jpg",
+   "tags": [
+    "兵器",
+    "戰鬥",
+    "迷宮",
+    "遊戲",
+    "PVP"
    ],
    "platform": "p",
    "recurring_mode": "week",
@@ -176,5 +176,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-10-09T14:03:00.362Z"
+ "updated_at": "2026-10-09T15:03:00.915Z"
 }
