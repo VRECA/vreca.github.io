@@ -1,27 +1,6 @@
 {
  "data": [
   {
-   "id": "bc9c897c-5f1f-4839-8deb-85ef19831487",
-   "title": "週游社[哈]",
-   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
-   "time_start": "2026-10-11 13:00:00+00",
-   "time_end": "2026-10-11 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "comm",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "書籍",
-    "聊天"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "d69013ad-d51e-49fb-92da-4a66a22f8eb0",
    "title": "週遊社[公]",
    "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -31,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -54,7 +33,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -75,7 +54,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -99,7 +78,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "讀書會阿德勒, 心理學, 親密關係, 交流, 靜聽OK"
    ],
@@ -118,7 +97,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -141,7 +120,7 @@
    "group_name": "Moshi Mochi is inviting you",
    "type": "shop",
    "group_id": "grp_6995027f-b8f0-4d83-b855-be1a4f0de133",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "maidcafe",
     "music",
@@ -166,9 +145,30 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "遊戲"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "e33b736b-48da-4cbf-af69-155846fead1e",
+   "title": "週游社[哈]",
+   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
+   "time_start": "2026-10-18 13:00:00+00",
+   "time_end": "2026-10-18 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "comm",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/7/poster.jpg",
+   "tags": [
+    "書籍",
+    "聊天"
    ],
    "platform": "p",
    "recurring_mode": "week",
@@ -222,5 +222,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-10-11T05:43:08.888Z"
+ "updated_at": "2026-10-11T14:03:10.622Z"
 }
