@@ -132,6 +132,31 @@
    "cancelled": false
   },
   {
+   "id": "a8eabb27-e7e4-4c84-87f5-71cca0742da8",
+   "title": "✨Pikari Maid Cafe✨ Day 1",
+   "description": "【#迎真創意學院】🎀女僕學會🎀活動\n🌟Pikari Maid Cafe 3D🌟\n\n各位主人久等了! 女僕學會活動🌟Pikari Maid Cafe 3D🌟正式開始接受報名啦~\n女僕Cafe 當日將會有互動環節以及女僕表演環節。活動過程也將會直播。\n\n活動將以廣東話為主要語言，但也十分歡迎國語及英語的玩家✨無言勢也大歡迎❤️\n\n如果主人想與女僕們交流及互動記得填寫以下報名表格~\nforms.gle/fCxSdzigB4Pyhc…\n\n截止報名日期: 10月15日(五)晚上11時59分\n**名額有限, 先到先得**\n\n活動日期:\n第一部:10月17日(六)晚上9時半\n第二部:10月18日(日)晚上9時半\n\n集合時間:9點25分\n活動場地: VRChat 指定群組地圖\n\n#PIKARIMAIDCAFE #VRChat",
+   "time_start": "2026-10-17 13:30:00+00",
+   "time_end": "2026-10-17 15:30:00+00",
+   "instance_type": "group_plus",
+   "group_name": "Moshi Mochi is inviting you",
+   "type": "shop",
+   "group_id": "grp_6995027f-b8f0-4d83-b855-be1a4f0de133",
+   "poster": "/img/6/poster.jpg",
+   "tags": [
+    "maidcafe",
+    "music",
+    "女僕咖啡廳",
+    "音樂",
+    "廣東話",
+    "國語",
+    "英文"
+   ],
+   "platform": "p",
+   "recurring_complete": true,
+   "cancelled": false,
+   "owner_id": "nAbPfUimwjKhigFeqwIn0yT25iJN3nsA"
+  },
+  {
    "id": "bf271602-52e2-42af-aa9f-23a790eee9eb",
    "title": "週遊社[遊]",
    "description": "活動內容：遊玩各種不同的VRC地圖\n注意事項：歡迎任何想玩遊戲的人，有VR的人更能玩得盡興，根據地圖內容來限制人數，且可能沒有VR會無法遊玩。活動過程中請保持尊重、包容、友善，並盡量優化模型，模型大小小於50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -141,7 +166,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -150,6 +175,31 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "ac04d76f-7708-4d0d-9607-fadb9eee97b0",
+   "title": "✨Pikari Maid Cafe✨ Day 2",
+   "description": "【#迎真創意學院】🎀女僕學會🎀活動\n🌟Pikari Maid Cafe 3D🌟\n\n各位主人久等了! 女僕學會活動🌟Pikari Maid Cafe 3D🌟正式開始接受報名啦~\n女僕Cafe 當日將會有互動環節以及女僕表演環節。活動過程也將會直播。\n\n活動將以廣東話為主要語言，但也十分歡迎國語及英語的玩家✨無言勢也大歡迎❤️\n\n如果主人想與女僕們交流及互動記得填寫以下報名表格~\nforms.gle/fCxSdzigB4Pyhc…\n\n截止報名日期: 10月15日(五)晚上11時59分\n**名額有限, 先到先得**\n\n活動日期:\n第一部:10月17日(六)晚上9時半\n第二部:10月18日(日)晚上9時半\n\n集合時間:9點25分\n活動場地: VRChat 指定群組地圖\n\n#PIKARIMAIDCAFE #VRChat",
+   "time_start": "2026-10-18 13:30:00+00",
+   "time_end": "2026-10-18 15:30:00+00",
+   "instance_type": "group_plus",
+   "group_name": "Moshi Mochi is inviting you",
+   "type": "shop",
+   "group_id": "grp_6995027f-b8f0-4d83-b855-be1a4f0de133",
+   "poster": "/img/8/poster.jpg",
+   "tags": [
+    "maidcafe",
+    "music",
+    "女僕咖啡廳",
+    "音樂",
+    "廣東話",
+    "國語",
+    "英文"
+   ],
+   "platform": "p",
+   "recurring_complete": true,
+   "cancelled": false,
+   "owner_id": "nAbPfUimwjKhigFeqwIn0yT25iJN3nsA"
   },
   {
    "id": "bec1b0ad-8fdf-403b-b482-e333daa8a370",
@@ -162,7 +212,7 @@
    "type": "gather",
    "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
    "cal_id": "cal_2ab2b970-14b3-444e-b194-8cb08a8b9dca",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/9/poster.jpg",
    "tags": [
     "台港澳VRC交流會"
    ],
@@ -172,5 +222,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-10-11T00:28:07.605Z"
+ "updated_at": "2026-10-11T05:38:08.899Z"
 }
