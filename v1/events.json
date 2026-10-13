@@ -220,7 +220,24 @@
    "recurring_complete": true,
    "cancelled": false,
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
+  },
+  {
+   "id": "cb5957de-b8b7-4e2c-bd91-fb80209324c2",
+   "title": "VCS月例行聚會",
+   "description": "太空站例行聚會 玩家創作交流、社群分享、歡迎大家一起來！",
+   "time_start": "2026-11-07 13:00:00+00",
+   "time_end": "2026-11-07 13:30:00+00",
+   "instance_type": "group_public",
+   "group_name": "VCS社群太空站",
+   "type": "gather",
+   "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
+   "cal_id": "cal_1bb823be-e81b-41a8-8f12-0f25ce72cc57",
+   "poster": "/img/10/poster.jpg",
+   "tags": [],
+   "platform": "pq",
+   "recurring_complete": true,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-10-11T15:03:10.711Z"
+ "updated_at": "2026-10-13T01:38:17.689Z"
 }
