@@ -1,30 +1,6 @@
 {
  "data": [
   {
-   "id": "ad55a206-98b5-43c5-8d18-a269e2a5e64c",
-   "title": "週遊社[戰]",
-   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
-   "time_start": "2026-10-16 14:00:00+00",
-   "time_end": "2026-10-16 15:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "兵器",
-    "戰鬥",
-    "迷宮",
-    "遊戲",
-    "PVP"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "4e335f4e-fa5c-41d5-aa95-b296f607dd18",
    "title": "阿德勒心理學沉浸式讀書會｜《為愛徬徨的勇氣》第四夜：愛的基礎——橫向平等與擺脫交易",
    "description": "「如果要求平等互惠，那就不是愛而是交易；愛需要建立完全平等的橫向關係。」\n\n許多人在感情中疲憊不堪，往往是因為把「工作上的買賣思維」搬進了愛情：我們暗中計算彼此的付出，或者渴望扮演「拯救者」強塞好意，卻在不知不覺中削弱了對方的尊嚴，把相處變成了權力角力的場所。\n阿德勒心理學提醒我們：愛是一門需要終身練習的技術，它要求我們放下居高臨下的傲慢，學會如實尊重對方的原則與課題。\n\n在這場 90 分鐘的沉浸式共讀會中，我們將透過岸見一郎老師的深刻剖析，直面「超越商業交換、解碼拯救者情結、相信對方立意良善，以及從行為走向存在的無條件感謝」。\n\n✦ 本夜精讀焦點：\n1. 超越平等互惠：看清記帳式付出背後「索取感激的隱蔽放貸」。\n2. 好意背後的權力鬥爭：尊重伴侶的自立與原則，勝過扮演盲目的英雄。\n3. 相信對方的立意良善：尊重課題界線，相信對方擁有解決人生難題的能力。\n4. 存在層面的價值：不以表現和功能評分，光是彼此存在於此，就值得由衷感謝。\n\n✦ 空間守則與特色：\n1. 特製看板引導：圖文對照，脈絡清晰好理解。\n2. 零社交壓力：徹底尊重課題分離，絕不強迫開麥，全程閉麥聆聽或 Chatbox 打字皆大歡迎。\n3. 平等橫向場域：不說教、不評判，引導者以真實反思陪伴大家共同探索。\n\n✦ 入場須知：\n房型為 Friends+，請先於 VRChat 內加主辦人好友（ID：[神奇狗狗]），活動前 15 分鐘開放 Join 入場。為維護交流品質，活動開始 15 分鐘後將鎖房，敬請準時入場。",
@@ -34,7 +10,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "讀書會阿德勒, 心理學, 親密關係, 交流, 靜聽OK"
    ],
@@ -53,7 +29,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -76,7 +52,7 @@
    "group_name": "Moshi Mochi is inviting you",
    "type": "shop",
    "group_id": "grp_6995027f-b8f0-4d83-b855-be1a4f0de133",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "maidcafe",
     "music",
@@ -101,7 +77,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -121,7 +97,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -142,7 +118,7 @@
    "group_name": "Moshi Mochi is inviting you",
    "type": "shop",
    "group_id": "grp_6995027f-b8f0-4d83-b855-be1a4f0de133",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "maidcafe",
     "music",
@@ -167,7 +143,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -190,10 +166,34 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "5bed9a66-ebb3-4d58-ad65-e241379fa222",
+   "title": "週遊社[戰]",
+   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-10-23 14:00:00+00",
+   "time_end": "2026-10-23 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/8/poster.jpg",
+   "tags": [
+    "兵器",
+    "戰鬥",
+    "迷宮",
+    "遊戲",
+    "PVP"
    ],
    "platform": "p",
    "recurring_mode": "week",
@@ -239,5 +239,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-10-16T14:03:35.185Z"
+ "updated_at": "2026-10-16T15:03:35.146Z"
 }
