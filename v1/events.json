@@ -1,29 +1,6 @@
 {
  "data": [
   {
-   "id": "ea19ea2b-e0ce-4166-bc27-cd47cf63be96",
-   "title": "週遊社[射]",
-   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
-   "time_start": "2026-10-17 13:00:00+00",
-   "time_end": "2026-10-17 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "射擊",
-    "Airsoft",
-    "Speedsoft",
-    "PVP"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "a8eabb27-e7e4-4c84-87f5-71cca0742da8",
    "title": "✨Pikari Maid Cafe✨ Day 1",
    "description": "【#迎真創意學院】🎀女僕學會🎀活動\n🌟Pikari Maid Cafe 3D🌟\n\n各位主人久等了! 女僕學會活動🌟Pikari Maid Cafe 3D🌟正式開始接受報名啦~\n女僕Cafe 當日將會有互動環節以及女僕表演環節。活動過程也將會直播。\n\n活動將以廣東話為主要語言，但也十分歡迎國語及英語的玩家✨無言勢也大歡迎❤️\n\n如果主人想與女僕們交流及互動記得填寫以下報名表格~\nforms.gle/fCxSdzigB4Pyhc…\n\n截止報名日期: 10月15日(五)晚上11時59分\n**名額有限, 先到先得**\n\n活動日期:\n第一部:10月17日(六)晚上9時半\n第二部:10月18日(日)晚上9時半\n\n集合時間:9點25分\n活動場地: VRChat 指定群組地圖\n\n#PIKARIMAIDCAFE #VRChat",
@@ -33,7 +10,7 @@
    "group_name": "Moshi Mochi is inviting you",
    "type": "shop",
    "group_id": "grp_6995027f-b8f0-4d83-b855-be1a4f0de133",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "maidcafe",
     "music",
@@ -58,7 +35,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -78,7 +55,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -99,7 +76,7 @@
    "group_name": "Moshi Mochi is inviting you",
    "type": "shop",
    "group_id": "grp_6995027f-b8f0-4d83-b855-be1a4f0de133",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "maidcafe",
     "music",
@@ -124,7 +101,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -147,7 +124,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -168,12 +145,35 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
     "迷宮",
     "遊戲",
+    "PVP"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "98b8d0fa-672d-4c3a-a66a-41a748685b5a",
+   "title": "週遊社[射]",
+   "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
+   "time_start": "2026-10-24 13:00:00+00",
+   "time_end": "2026-10-24 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/7/poster.jpg",
+   "tags": [
+    "射擊",
+    "Airsoft",
+    "Speedsoft",
     "PVP"
    ],
    "platform": "p",
@@ -220,5 +220,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-10-17T13:03:39.542Z"
+ "updated_at": "2026-10-17T14:03:39.976Z"
 }
