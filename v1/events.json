@@ -115,6 +115,25 @@
    "cancelled": false
   },
   {
+   "id": "7426f0e4-4627-44c3-b147-7cc75b1058d7",
+   "title": "阿德勒心理學沉浸式讀書會｜《為愛徬徨的勇氣》第五夜：愛的溝通技術——真誠直球與主詞切換",
+   "description": "「在愛的世界裡，只要有一個人爭贏了，這段關係就是兩個人一起輸了。」\n\n許多親密關係的裂痕，並非源自不愛，而是源自拙劣的溝通習慣：我們習慣用生悶氣、說反話來等對方猜心思；爭吵時忍不住翻出陳年舊帳公審對方；或是把「承認盲點」當成了淪為輸家的屈辱，非得爭個是非對錯。\n阿德勒心理學提醒我們：人類沒有心電感應，真正的溝通需要學習「不投變化球」的直球勇氣，並將人生主詞由「我」切換為「我們」。\n\n在這場 90 分鐘的沉浸式共讀會中，我們將透過岸見一郎老師的深刻剖析，直面「拒絕變化球、以無法心意相通為起點、初次見面的歸零對話，以及退出勝負爭奪的共同體溝通」。\n\n✦ 本夜精讀焦點：\n1. 拒絕投變化球：課題分離的直球實踐，說清楚講明白真實需求。\n2. 人無法心意相通：破除「你理所當然應該懂我」的傲慢，重拾謙卑傾聽。\n3. 抱持初次見面的心情：不翻舊帳、不帶偏見，每一次對話都是嶄新的相遇。\n4. 切換主詞為「我們」：停止爭奪誰對誰錯，攜手思考今後該怎麼辦。\n\n✦ 空間守則與特色：\n1. 特製看板引導：圖文對照，脈絡清晰好理解。\n2. 零社交壓力：徹底尊重課題分離，絕不強迫開麥，全程閉麥聆聽或 Chatbox 打字皆大歡迎。\n3. 平等橫向場域：不說教、不評判，引導者以真實反思陪伴大家共同探索。\n\n✦ 入場須知：\n房型為 Friends+，請先於 VRChat 內加主辦人好友（ID：[神奇狗狗]），活動前 15 分鐘開放 Join 入場。為維護交流品質，活動開始 15 分鐘後將鎖房，敬請準時入場。",
+   "time_start": "2026-10-23 23:20:00+00",
+   "time_end": "2026-10-24 01:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "VRC阿德勒同好會",
+   "type": "talk",
+   "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
+   "poster": "/img/5/poster.jpg",
+   "tags": [
+    "讀書會阿德勒, 心理學, 親密溝通, 交流, 靜聽OK"
+   ],
+   "platform": "pq",
+   "recurring_complete": true,
+   "cancelled": false,
+   "owner_id": "N3bvQq0xN43PEgibF3TonONRYrpWWQzA"
+  },
+  {
    "id": "98b8d0fa-672d-4c3a-a66a-41a748685b5a",
    "title": "週遊社[射]",
    "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
@@ -124,7 +143,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -148,7 +167,7 @@
    "type": "gather",
    "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
    "cal_id": "cal_2ab2b970-14b3-444e-b194-8cb08a8b9dca",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "台港澳VRC交流會"
    ],
@@ -167,7 +186,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/8/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -188,12 +207,12 @@
    "type": "gather",
    "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
    "cal_id": "cal_1bb823be-e81b-41a8-8f12-0f25ce72cc57",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/9/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
    "cancelled": false
   }
  ],
- "updated_at": "2026-10-17T15:33:39.645Z"
+ "updated_at": "2026-10-18T02:03:41.646Z"
 }
