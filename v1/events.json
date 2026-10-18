@@ -1,27 +1,6 @@
 {
  "data": [
   {
-   "id": "e33b736b-48da-4cbf-af69-155846fead1e",
-   "title": "週游社[哈]",
-   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
-   "time_start": "2026-10-18 13:00:00+00",
-   "time_end": "2026-10-18 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "comm",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "書籍",
-    "聊天"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "ac04d76f-7708-4d0d-9607-fadb9eee97b0",
    "title": "✨Pikari Maid Cafe✨ Day 2",
    "description": "【#迎真創意學院】🎀女僕學會🎀活動\n🌟Pikari Maid Cafe 3D🌟\n\n各位主人久等了! 女僕學會活動🌟Pikari Maid Cafe 3D🌟正式開始接受報名啦~\n女僕Cafe 當日將會有互動環節以及女僕表演環節。活動過程也將會直播。\n\n活動將以廣東話為主要語言，但也十分歡迎國語及英語的玩家✨無言勢也大歡迎❤️\n\n如果主人想與女僕們交流及互動記得填寫以下報名表格~\nforms.gle/fCxSdzigB4Pyhc…\n\n截止報名日期: 10月15日(五)晚上11時59分\n**名額有限, 先到先得**\n\n活動日期:\n第一部:10月17日(六)晚上9時半\n第二部:10月18日(日)晚上9時半\n\n集合時間:9點25分\n活動場地: VRChat 指定群組地圖\n\n#PIKARIMAIDCAFE #VRChat",
@@ -31,7 +10,7 @@
    "group_name": "Moshi Mochi is inviting you",
    "type": "shop",
    "group_id": "grp_6995027f-b8f0-4d83-b855-be1a4f0de133",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "maidcafe",
     "music",
@@ -56,7 +35,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -79,7 +58,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -100,7 +79,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -124,7 +103,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "讀書會阿德勒, 心理學, 親密溝通, 交流, 靜聽OK"
    ],
@@ -132,6 +111,26 @@
    "recurring_complete": true,
    "cancelled": false,
    "owner_id": "N3bvQq0xN43PEgibF3TonONRYrpWWQzA"
+  },
+  {
+   "id": "bec1b0ad-8fdf-403b-b482-e333daa8a370",
+   "title": "台港澳VRC交流會（2026年10月份）",
+   "description": "・每月舉辦一次的 VRChat 社群交流活動\n・提供安心、友善的交流環境\n・認識新朋友、接觸不同圈子與文化\n・設有話題配對TAG系統，方便破冰聊天\n・多個房間同步進行， 可自由往返",
+   "time_start": "2026-10-24 13:00:00+00",
+   "time_end": "2026-10-24 14:30:00+00",
+   "instance_type": "group_plus",
+   "group_name": "台港澳VRC活動文化推廣協會",
+   "type": "gather",
+   "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
+   "cal_id": "cal_2ab2b970-14b3-444e-b194-8cb08a8b9dca",
+   "poster": "/img/5/poster.jpg",
+   "tags": [
+    "台港澳VRC交流會"
+   ],
+   "platform": "p",
+   "recurring_complete": true,
+   "cancelled": false,
+   "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   },
   {
    "id": "98b8d0fa-672d-4c3a-a66a-41a748685b5a",
@@ -157,26 +156,6 @@
    "cancelled": false
   },
   {
-   "id": "bec1b0ad-8fdf-403b-b482-e333daa8a370",
-   "title": "台港澳VRC交流會（2026年10月份）",
-   "description": "・每月舉辦一次的 VRChat 社群交流活動\n・提供安心、友善的交流環境\n・認識新朋友、接觸不同圈子與文化\n・設有話題配對TAG系統，方便破冰聊天\n・多個房間同步進行， 可自由往返",
-   "time_start": "2026-10-24 13:00:00+00",
-   "time_end": "2026-10-24 14:30:00+00",
-   "instance_type": "group_plus",
-   "group_name": "台港澳VRC活動文化推廣協會",
-   "type": "gather",
-   "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
-   "cal_id": "cal_2ab2b970-14b3-444e-b194-8cb08a8b9dca",
-   "poster": "/img/7/poster.jpg",
-   "tags": [
-    "台港澳VRC交流會"
-   ],
-   "platform": "p",
-   "recurring_complete": true,
-   "cancelled": false,
-   "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
-  },
-  {
    "id": "799c7474-956a-4dd4-9cfc-a9e30eff8a08",
    "title": "週遊社[遊]",
    "description": "活動內容：遊玩各種不同的VRC地圖\n注意事項：歡迎任何想玩遊戲的人，有VR的人更能玩得盡興，根據地圖內容來限制人數，且可能沒有VR會無法遊玩。活動過程中請保持尊重、包容、友善，並盡量優化模型，模型大小小於50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -186,9 +165,30 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/8/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "遊戲"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "dc9e660b-2be1-4128-8892-054906739757",
+   "title": "週游社[哈]",
+   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
+   "time_start": "2026-10-25 13:00:00+00",
+   "time_end": "2026-10-25 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "comm",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/8/poster.jpg",
+   "tags": [
+    "書籍",
+    "聊天"
    ],
    "platform": "p",
    "recurring_mode": "week",
@@ -214,5 +214,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-10-18T02:03:41.646Z"
+ "updated_at": "2026-10-18T14:03:44.009Z"
 }
