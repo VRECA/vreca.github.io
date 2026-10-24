@@ -1,6 +1,24 @@
 {
  "data": [
   {
+   "id": "a554749b-a7dd-468c-8f8e-998758aa889e",
+   "title": "台港澳VRC交流會（test）",
+   "description": "・每月舉辦一次的 VRChat 社群交流活動\n・提供安心、友善的交流環境\n・認識新朋友、接觸不同圈子與文化\n・設有話題配對TAG系統，方便破冰聊天\n・多個房間同步進行， 可自由往返",
+   "time_start": "2026-10-24 17:00:00+00",
+   "time_end": "2026-10-24 18:30:00+00",
+   "instance_type": "group_plus",
+   "group_name": "台港澳VRC活動文化推廣協會",
+   "type": "gather",
+   "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
+   "cal_id": "cal_2ab2b970-14b3-444e-b194-8cb08a8b9dca",
+   "poster": "/img/0/poster.jpg",
+   "tags": [],
+   "platform": "p",
+   "recurring_complete": true,
+   "cancelled": false,
+   "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
+  },
+  {
    "id": "dc9e660b-2be1-4128-8892-054906739757",
    "title": "週游社[哈]",
    "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
@@ -10,7 +28,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -31,7 +49,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -54,7 +72,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -75,7 +93,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -99,7 +117,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -122,7 +140,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -143,12 +161,12 @@
    "type": "gather",
    "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
    "cal_id": "cal_1bb823be-e81b-41a8-8f12-0f25ce72cc57",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
    "cancelled": false
   }
  ],
- "updated_at": "2026-10-24T15:04:12.401Z"
+ "updated_at": "2026-10-24T17:26:17.343Z"
 }
