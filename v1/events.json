@@ -1,25 +1,6 @@
 {
  "data": [
   {
-   "id": "9cf15525-8ef2-43f0-af8f-a2f09e028dd0",
-   "title": "阿德勒心理學沉浸式讀書會｜《為愛徬徨的勇氣》第六夜：愛的終極修煉——當下、自由與自立（大結局）",
-   "description": "「在所有的邂逅與一切人際關係上，一心一意朝著『最美好的離別』去努力。」——岸見一郎\n\n在經過六個夜晚的深入剖析後，我們將迎來全書最具哲學深度與生命張力的完結篇。\n相處的意義不在於用一紙契約把對方捆綁在身邊，而是在共度的每一個當下全心燃燒；當人生的軌道走向分歧時，我們是否能放下受害者的委屈與藉口，看懂分開前種種心理防禦背後的脆弱？\n阿德勒心理學指出：愛不是命中注定的偶然，而是自立的決斷。我們為了離別而相遇，正因如此，眼前的共舞才無比珍貴。\n\n在這場 90 分鐘的完結篇共讀會中，我們將透過岸見一郎老師的深刻文字，直面「共度有生命的時間、目標一致的合作、分手的技術，以及迎接最美好離別的終極自立」。\n\n✦ 本夜精讀焦點：\n1. 全神貫注於當下：破除距離與未來的焦慮，享受無時間性的實現式相聚。\n2. 讓目標一致：面對人生重大關卡，坦然確立共同方向。\n3. 分手的技術（Tapering）：拆解分開前「藉口、算命與送禮補償」的心靈真相。\n4. 朝向最美好的離別努力：以舞伴優雅致謝的姿態，平靜接納、邁向自立。\n\n✦ 空間守則與特色：\n1. 特製看板引導：圖文對照，脈絡清晰好理解。\n2. 零社交壓力：徹底尊重課題分離，絕不強迫開麥，全程閉麥聆聽或 Chatbox 打字皆大歡迎。\n3. 平等橫向場域：不說教、不評判，引導者以真實生命轉折陪伴大家共同探索。\n\n✦ 入場須知：\n房型為 Friends+，請先於 VRChat 內加主辦人好友（ID：[神奇狗狗]），活動前 15 分鐘開放 Join 入場。為維護交流品質，活動開始 15 分鐘後將鎖房，敬請準時入場。",
-   "time_start": "2026-10-31 11:20:00+00",
-   "time_end": "2026-10-31 13:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "VRC阿德勒同好會",
-   "type": "talk",
-   "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "讀書會阿德勒, 心理學, 親密關係, 大結局, 靜聽OK"
-   ],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false,
-   "owner_id": "N3bvQq0xN43PEgibF3TonONRYrpWWQzA"
-  },
-  {
    "id": "98d544de-6fef-4552-ad53-581dbfe4b89e",
    "title": "週遊社[射]",
    "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
@@ -29,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -52,7 +33,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -72,7 +53,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -93,7 +74,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -116,7 +97,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -137,7 +118,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -162,12 +143,12 @@
    "type": "gather",
    "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
    "cal_id": "cal_1bb823be-e81b-41a8-8f12-0f25ce72cc57",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
    "cancelled": false
   }
  ],
- "updated_at": "2026-10-30T15:01:45.573Z"
+ "updated_at": "2026-10-31T13:01:49.590Z"
 }
