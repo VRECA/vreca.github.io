@@ -12,7 +12,12 @@
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
    "poster": "/img/0/poster.jpg",
    "tags": [
-    "讀書會阿德勒, 岸見一郎, 人生困境, 心理學, 交流, 靜聽OK"
+    "讀書會阿德勒",
+    "岸見一郎",
+    "人生困境",
+    "心理學",
+    "交流",
+    "靜聽OK"
    ],
    "platform": "pq",
    "recurring_complete": true,
@@ -169,5 +174,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-11-03T09:30:48.202Z"
+ "updated_at": "2026-11-04T06:12:07.483Z"
 }
