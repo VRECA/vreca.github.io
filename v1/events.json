@@ -1,30 +1,6 @@
 {
  "data": [
   {
-   "id": "b52b48ee-2efa-429c-8a70-abe90b3678d1",
-   "title": "週遊社[戰]",
-   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
-   "time_start": "2026-11-06 14:00:00+00",
-   "time_end": "2026-11-06 15:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "兵器",
-    "戰鬥",
-    "迷宮",
-    "遊戲",
-    "PVP"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "cb5957de-b8b7-4e2c-bd91-fb80209324c2",
    "title": "VCS月例行聚會",
    "description": "太空站例行聚會 玩家創作交流、社群分享、歡迎大家一起來！",
@@ -35,7 +11,7 @@
    "type": "gather",
    "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
    "cal_id": "cal_1bb823be-e81b-41a8-8f12-0f25ce72cc57",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [],
    "platform": "pq",
    "recurring_complete": true,
@@ -51,7 +27,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -74,7 +50,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -94,7 +70,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -115,7 +91,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -138,7 +114,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -148,7 +124,31 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "96c75a89-50bd-4fb4-9f56-389cfc8d2510",
+   "title": "週遊社[戰]",
+   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-11-13 14:00:00+00",
+   "time_end": "2026-11-13 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/6/poster.jpg",
+   "tags": [
+    "兵器",
+    "戰鬥",
+    "迷宮",
+    "遊戲",
+    "PVP"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-11-06T14:02:18.562Z"
+ "updated_at": "2026-11-06T15:02:26.046Z"
 }
