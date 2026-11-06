@@ -1,27 +1,6 @@
 {
  "data": [
   {
-   "id": "0e0b398a-c0a3-4fff-be38-7725f2d35cd0",
-   "title": "週遊社[廳]",
-   "description": "活動內容：咖啡、酒精、遊戲、聊天\n活動特點：櫃台陪聊，專人帶玩，在無聊的VRC生活中增添一點樂趣\n注意事項：請使用50MB以內的模型\n相關連結：請參考X․com＠PAEW_VRC",
-   "time_start": "2026-11-06 13:00:00+00",
-   "time_end": "2026-11-06 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "gather",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "咖啡廳",
-    "桌遊"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "b52b48ee-2efa-429c-8a70-abe90b3678d1",
    "title": "週遊社[戰]",
    "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -31,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -43,6 +22,23 @@
    "recurring_mode": "week",
    "recurring_number": 1,
    "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "cb5957de-b8b7-4e2c-bd91-fb80209324c2",
+   "title": "VCS月例行聚會",
+   "description": "太空站例行聚會 玩家創作交流、社群分享、歡迎大家一起來！",
+   "time_start": "2026-11-07 13:00:00+00",
+   "time_end": "2026-11-07 13:30:00+00",
+   "instance_type": "group_public",
+   "group_name": "VCS社群太空站",
+   "type": "gather",
+   "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
+   "cal_id": "cal_1bb823be-e81b-41a8-8f12-0f25ce72cc57",
+   "poster": "/img/1/poster.jpg",
+   "tags": [],
+   "platform": "pq",
+   "recurring_complete": true,
    "cancelled": false
   },
   {
@@ -69,23 +65,6 @@
    "cancelled": false
   },
   {
-   "id": "cb5957de-b8b7-4e2c-bd91-fb80209324c2",
-   "title": "VCS月例行聚會",
-   "description": "太空站例行聚會 玩家創作交流、社群分享、歡迎大家一起來！",
-   "time_start": "2026-11-07 13:00:00+00",
-   "time_end": "2026-11-07 13:30:00+00",
-   "instance_type": "group_public",
-   "group_name": "VCS社群太空站",
-   "type": "gather",
-   "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
-   "cal_id": "cal_1bb823be-e81b-41a8-8f12-0f25ce72cc57",
-   "poster": "/img/3/poster.jpg",
-   "tags": [],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "b02561f9-ee2a-4b08-8acf-cd8bb050349f",
    "title": "週遊社[遊]",
    "description": "活動內容：遊玩各種不同的VRC地圖\n注意事項：歡迎任何想玩遊戲的人，有VR的人更能玩得盡興，根據地圖內容來限制人數，且可能沒有VR會無法遊玩。活動過程中請保持尊重、包容、友善，並盡量優化模型，模型大小小於50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -95,7 +74,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -115,7 +94,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -136,7 +115,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -148,7 +127,28 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "527c663f-239d-4406-a05f-a0ebdc9b99e0",
+   "title": "週遊社[廳]",
+   "description": "活動內容：咖啡、酒精、遊戲、聊天\n活動特點：櫃台陪聊，專人帶玩，在無聊的VRC生活中增添一點樂趣\n注意事項：請使用50MB以內的模型\n相關連結：請參考X․com＠PAEW_VRC",
+   "time_start": "2026-11-13 13:00:00+00",
+   "time_end": "2026-11-13 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "gather",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/6/poster.jpg",
+   "tags": [
+    "咖啡廳",
+    "桌遊"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-11-06T13:02:18.382Z"
+ "updated_at": "2026-11-06T14:02:18.562Z"
 }
