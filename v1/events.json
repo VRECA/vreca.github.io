@@ -1,23 +1,6 @@
 {
  "data": [
   {
-   "id": "cb5957de-b8b7-4e2c-bd91-fb80209324c2",
-   "title": "VCS月例行聚會",
-   "description": "太空站例行聚會 玩家創作交流、社群分享、歡迎大家一起來！",
-   "time_start": "2026-11-07 13:00:00+00",
-   "time_end": "2026-11-07 13:30:00+00",
-   "instance_type": "group_public",
-   "group_name": "VCS社群太空站",
-   "type": "gather",
-   "group_id": "grp_12089843-6933-4d03-b80b-0295b2fe4130",
-   "cal_id": "cal_1bb823be-e81b-41a8-8f12-0f25ce72cc57",
-   "poster": "/img/0/poster.jpg",
-   "tags": [],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false
-  },
-  {
    "id": "634ed0fd-8960-4536-bb1d-f0796927d5ec",
    "title": "週遊社[射]",
    "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
@@ -27,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -50,7 +33,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -70,7 +53,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -91,7 +74,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -114,7 +97,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -135,7 +118,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -159,7 +142,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "讀書會阿德勒",
     "岸見一郎",
@@ -174,5 +157,5 @@
    "owner_id": "N3bvQq0xN43PEgibF3TonONRYrpWWQzA"
   }
  ],
- "updated_at": "2026-11-06T15:42:18.961Z"
+ "updated_at": "2026-11-07T13:32:23.134Z"
 }
