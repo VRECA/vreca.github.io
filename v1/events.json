@@ -1,30 +1,6 @@
 {
  "data": [
   {
-   "id": "2187a59b-43b0-4c43-88aa-271855e5f6cf",
-   "title": "阿德勒心理學沉浸式讀書會｜《阿德勒教你面對人生困境》第二夜：看清人生劇本",
-   "description": "「生活型態是我們看待自己與世界賦予意義的系統；身處鐵塔之中的人，往往看不見鐵塔本身。」\n\n許多人在人際或職場中，往往發現自己重複在相同的死胡同裡碰壁，卻習慣將問題歸咎於外在環境或過去的創傷。\n阿德勒個體心理學一針見血地指出：我們每個人在大約十歲左右，便為自己設定了名為「生活型態」的生存劇本。在第二夜中，我們將透過岸見一郎老師的專著對照，深入拆解生活型態與早期回憶的運作機制。有書夥伴可翻書對照，沒書夥伴亦能輕鬆理解生活案例。\n\n✦ 本夜精讀焦點（第二章至第三章）：\n1. 艾菲爾鐵塔的盲點：認識生活型態，覺察自己看待世界的底層眼鏡。\n2. 早期回憶的秘密：看懂心靈如何挑選童年記憶，來為現在的停滯尋找藉口。\n3. 精神官能症的藉口：拆解「只要沒有那個問題我也能做到」背後的虛假自尊。\n4. 從「從哪裡來」到「往何處去」：擺脫原因論的無力枷鎖，承擔重新選擇生活型態的勇氣。\n\n✦ 空間守則與特色：\n1. 扎實原著故事對照：貼合章節脈絡，有書沒書都能輕鬆獲取啟發。\n2. 零社交壓力：徹底尊重課題分離，絕不強迫開麥，全程閉麥聆聽或文字交流皆大歡迎。\n3. 平等橫向場域：不說教、不批判，引導者結合真實生活體悟陪伴大家反思共讀。\n\n✦ 入場須知：\n房型為 Friends+，請先於 VRChat 內加主辦人好友（ID：神奇狗狗），活動前 15 分鐘開放 Join 入場。為維護交流品質，活動開始 15 分鐘後將鎖房，敬請準時入場。",
-   "time_start": "2026-11-14 11:20:00+00",
-   "time_end": "2026-11-14 13:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "VRC阿德勒同好會",
-   "type": "talk",
-   "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "讀書會阿德勒",
-    "岸見一郎",
-    "生活型態",
-    "心理學",
-    "交流",
-    "靜聽OK"
-   ],
-   "platform": "p",
-   "recurring_complete": true,
-   "cancelled": false,
-   "owner_id": "N3bvQq0xN43PEgibF3TonONRYrpWWQzA"
-  },
-  {
    "id": "01a1b64f-8fe9-729e-adf7-500e72def450",
    "title": "週遊社[射]",
    "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
@@ -34,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -57,7 +33,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -77,7 +53,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -98,7 +74,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -121,7 +97,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -142,7 +118,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -167,7 +143,7 @@
    "type": "gather",
    "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
    "cal_id": "cal_8976be9d-a035-427a-aebd-1a86f15bec49",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "台港澳VRC交流會"
    ],
@@ -177,5 +153,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-11-13T15:02:51.532Z"
+ "updated_at": "2026-11-14T13:02:55.702Z"
 }
