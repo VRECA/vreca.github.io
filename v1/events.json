@@ -90,6 +90,30 @@
    "cancelled": false
   },
   {
+   "id": "01a1dab4-632c-76e3-ba00-4f396c50556a",
+   "title": "阿德勒心理學沉浸式讀書會｜《阿德勒教你面對人生困境》第三夜：共同體感覺",
+   "description": "「能夠解決任何人生難題的整合性觀點，就是發展為『共同體感覺』——讓人與人互相結合，而非互相對立。」\n\n在看清個人的「生活型態」之後，本期讀書會將視角從向內探索轉向向外連結，深入岸見一郎老師專著《阿德勒教你面對人生困境》第四章。我們將探討如何擺脫「以自我為中心」的孤獨焦慮，在尊重彼此差異的前提下，建立真正讓人感到安全與歸屬的橫向夥伴關係。有書夥伴可翻閱第四章對照，沒書夥伴亦能輕鬆理解生活案例。\n\n✦ 本夜精讀焦點（第四章全章）：\n1. 戰火中的理想主義：阿德勒在一戰軍醫現場孕育出的共同體精神——將他人視為同伴而非敵人。\n2. 超越對自己的執著：拆解「過度在意他人評價」背後的自我中心，學習同理心的三大實踐。\n3. 拒絕遭到誤用的共同體：剖析雪地扶人典故，學習不盲從狹隘小圈圈，傾聽「更大共同體」之聲。\n4. 存在層級的自我接納：破除「涵蓋他人」的控制欲，體會人光是存在於此便對世界有所貢獻。\n\n✦ 空間守則與特色：\n1. 扎實原著故事對照：貼合章節脈絡，有書沒書都能輕鬆獲取啟發。\n2. 零社交壓力：徹底尊重課題分離，絕不強迫開麥，全程閉麥聆聽或文字交流皆大歡迎。\n3. 平等橫向場域：不說教、不批判，引導者結合真實生活體悟陪伴大家反思共讀。\n\n✦ 入場須知：\n房型為 Friends+，請先於 VRChat 內加主辦人好友（ID：神奇狗狗），活動前 15 分鐘開放 Join 入場。 敬請準時入場。",
+   "time_start": "2026-11-21 11:20:00+00",
+   "time_end": "2026-11-21 13:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "VRC阿德勒同好會",
+   "type": "talk",
+   "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
+   "poster": "/img/4/poster.jpg",
+   "tags": [
+    "讀書會阿德勒",
+    "岸見一郎",
+    "共同體感覺",
+    "心理學",
+    "交流",
+    "靜聽OK"
+   ],
+   "platform": "pq",
+   "recurring_complete": true,
+   "cancelled": false,
+   "owner_id": "N3bvQq0xN43PEgibF3TonONRYrpWWQzA"
+  },
+  {
    "id": "01a1da5b-e774-76b8-9d16-4e480956c149",
    "title": "週遊社[射]",
    "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
@@ -99,7 +123,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -122,7 +146,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -143,7 +167,7 @@
    "type": "gather",
    "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
    "cal_id": "cal_8976be9d-a035-427a-aebd-1a86f15bec49",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/7/poster.jpg",
    "tags": [
     "台港澳VRC交流會"
    ],
@@ -153,5 +177,5 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   }
  ],
- "updated_at": "2026-11-14T15:02:56.169Z"
+ "updated_at": "2026-11-14T15:37:56.499Z"
 }
