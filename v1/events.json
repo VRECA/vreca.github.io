@@ -1,30 +1,6 @@
 {
  "data": [
   {
-   "id": "01a1f979-4e24-70ad-91c6-bb8d9a6b96b3",
-   "title": "週遊社[戰]",
-   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
-   "time_start": "2026-11-27 14:00:00+00",
-   "time_end": "2026-11-27 15:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "game",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "兵器",
-    "戰鬥",
-    "迷宮",
-    "遊戲",
-    "PVP"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "01a20281-64e8-7714-8a8f-c8a5cc475773",
    "title": "阿德勒心理學沉浸式讀書會｜《阿德勒教你面對人生困境》第四夜：優越性的追求",
    "description": "「追求優越性或自卑感本身都不是病，它們會為健康、正常的努力與成長帶來刺激；真正讓人受苦的，是把自卑當作逃避課題的藉口。」\n\n在現代社群文化中，人們極易陷入無止盡的橫向比較：看到他人成功便自慚形穢，或是透過吹噓、貶低他人、甚至「比誰更慘」來獲取虛假的優越感。\n在《阿德勒教你面對人生困境》第四夜中，我們將深入第五章，透過原著經典案例與引導者的生動比喻，完整拆解「自卑感、自卑情結與優越情結」的運作機制，學習如何退出與他人的競賽，腳踏實地朝向「善」而行。有書夥伴可翻閱第五章對照，沒書夥伴亦能輕鬆理解生活案例。\n\n✦ 本夜精讀焦點（第五章全章）：\n1. 前進彈簧 vs. 逃避鎖鏈：釐清健康的「自卑感」與當作免責擋箭牌的「自卑情結」。\n2. 墊腳尖的偽裝：剖析「優越情結」的心理真相——為何過度吹噓與愛說教，反而讓人喪失前進的勇氣？\n3. 負向的優越性追求：看穿「比慘大會」與「情緒暴怒」背後，渴望成為特別存在與控制他人的目的。\n4. 退出比較賽道：在平坦地面上與昨天的自己比較，將個人努力與共同體的「善」結合。\n\n✦ 空間守則與特色：\n1. 扎實原著故事與生活實例：貼合章節脈絡，有書沒書都能獲得深刻啟發。\n2. 零社交壓力：徹底尊重課題分離，絕不強迫開麥，全程閉麥聆聽或文字交流皆大歡迎。\n3. 平等橫向場域：不說教、不批判，陪伴大家在安全無壓力的環境中自我覺察。\n\n✦ 入場須知：\n房型為群組加（Group+），請先加入主辦人（ID：神奇狗狗）之 VRChat 群組即可直接 Join 入場。活動 19:20 集合、19:30 開始，全程不鎖房，歡迎隨時自由加入共讀。",
@@ -34,7 +10,7 @@
    "group_name": "VRC阿德勒同好會",
    "type": "talk",
    "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "讀書會阿德勒",
     "岸見一郎",
@@ -58,7 +34,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -81,7 +57,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/3/poster.jpg",
+   "poster": "/img/2/poster.jpg",
    "tags": [
     "遊戲"
    ],
@@ -102,7 +78,7 @@
    "type": "gather",
    "group_id": "grp_59bacc55-4ee5-40d1-b7dd-36bcd20f6aa3",
    "cal_id": "cal_8976be9d-a035-427a-aebd-1a86f15bec49",
-   "poster": "/img/4/poster.jpg",
+   "poster": "/img/3/poster.jpg",
    "tags": [
     "台港澳VRC交流會"
    ],
@@ -121,7 +97,7 @@
    "group_name": "週遊社",
    "type": "comm",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "書籍",
     "聊天"
@@ -142,7 +118,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -165,7 +141,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -175,7 +151,31 @@
    "recurring_number": 1,
    "recurring_complete": false,
    "cancelled": false
+  },
+  {
+   "id": "01a21d85-86f5-7064-ade7-9b1b9d70b127",
+   "title": "週遊社[戰]",
+   "description": "活動內容：冷兵器PVP迷宮大亂鬥\n注意事項：\n1） 必須要有VR\n2） 有公開模型可用，自備者須加裝https˸⁄⁄8ya․booth․pm⁄items⁄5945340\n3） 自備模型者須優化模型，模型大小≺50MB\n相關連結：活動細節請參考X․com＠PAEW_VRC",
+   "time_start": "2026-12-04 14:00:00+00",
+   "time_end": "2026-12-04 15:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "game",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/7/poster.jpg",
+   "tags": [
+    "兵器",
+    "戰鬥",
+    "迷宮",
+    "遊戲",
+    "PVP"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
   }
  ],
- "updated_at": "2026-11-27T14:03:57.301Z"
+ "updated_at": "2026-11-27T15:03:57.768Z"
 }
