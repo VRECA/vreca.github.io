@@ -1,30 +1,6 @@
 {
  "data": [
   {
-   "id": "01a20281-64e8-7714-8a8f-c8a5cc475773",
-   "title": "阿德勒心理學沉浸式讀書會｜《阿德勒教你面對人生困境》第四夜：優越性的追求",
-   "description": "「追求優越性或自卑感本身都不是病，它們會為健康、正常的努力與成長帶來刺激；真正讓人受苦的，是把自卑當作逃避課題的藉口。」\n\n在現代社群文化中，人們極易陷入無止盡的橫向比較：看到他人成功便自慚形穢，或是透過吹噓、貶低他人、甚至「比誰更慘」來獲取虛假的優越感。\n在《阿德勒教你面對人生困境》第四夜中，我們將深入第五章，透過原著經典案例與引導者的生動比喻，完整拆解「自卑感、自卑情結與優越情結」的運作機制，學習如何退出與他人的競賽，腳踏實地朝向「善」而行。有書夥伴可翻閱第五章對照，沒書夥伴亦能輕鬆理解生活案例。\n\n✦ 本夜精讀焦點（第五章全章）：\n1. 前進彈簧 vs. 逃避鎖鏈：釐清健康的「自卑感」與當作免責擋箭牌的「自卑情結」。\n2. 墊腳尖的偽裝：剖析「優越情結」的心理真相——為何過度吹噓與愛說教，反而讓人喪失前進的勇氣？\n3. 負向的優越性追求：看穿「比慘大會」與「情緒暴怒」背後，渴望成為特別存在與控制他人的目的。\n4. 退出比較賽道：在平坦地面上與昨天的自己比較，將個人努力與共同體的「善」結合。\n\n✦ 空間守則與特色：\n1. 扎實原著故事與生活實例：貼合章節脈絡，有書沒書都能獲得深刻啟發。\n2. 零社交壓力：徹底尊重課題分離，絕不強迫開麥，全程閉麥聆聽或文字交流皆大歡迎。\n3. 平等橫向場域：不說教、不批判，陪伴大家在安全無壓力的環境中自我覺察。\n\n✦ 入場須知：\n房型為群組加（Group+），請先加入主辦人（ID：神奇狗狗）之 VRChat 群組即可直接 Join 入場。活動 19:20 集合、19:30 開始，全程不鎖房，歡迎隨時自由加入共讀。",
-   "time_start": "2026-11-28 11:20:00+00",
-   "time_end": "2026-11-28 13:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "VRC阿德勒同好會",
-   "type": "talk",
-   "group_id": "grp_562b5e81-1acc-4d7f-813d-ed014d17feb9",
-   "poster": "/img/0/poster.jpg",
-   "tags": [
-    "讀書會阿德勒",
-    "岸見一郎",
-    "自卑與超越",
-    "心理學",
-    "交流",
-    "靜聽OK"
-   ],
-   "platform": "pq",
-   "recurring_complete": true,
-   "cancelled": false,
-   "owner_id": "N3bvQq0xN43PEgibF3TonONRYrpWWQzA"
-  },
-  {
    "id": "01a1fe68-49a4-75eb-88a2-19a248ba8221",
    "title": "週遊社[射]",
    "description": "活動內容：自製Airsoft⁄Speedsoft地圖，仿照現實世界遊玩\n注意事項：無須準備即可參加，如欲使用自己的模型，請確保模型大小小魚50MB，且能明顯切換紅⁄黃兩色\n相關連結：請參考X․com＠PAEW_VRC",
@@ -34,7 +10,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/1/poster.jpg",
+   "poster": "/img/0/poster.jpg",
    "tags": [
     "射擊",
     "Airsoft",
@@ -57,9 +33,30 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/2/poster.jpg",
+   "poster": "/img/1/poster.jpg",
    "tags": [
     "遊戲"
+   ],
+   "platform": "p",
+   "recurring_mode": "week",
+   "recurring_number": 1,
+   "recurring_complete": false,
+   "cancelled": false
+  },
+  {
+   "id": "01a2038f-259e-7302-80b3-7f6aecb4e4a8",
+   "title": "週游社[哈]",
+   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
+   "time_start": "2026-11-29 13:00:00+00",
+   "time_end": "2026-11-29 14:00:00+00",
+   "instance_type": "group_plus",
+   "group_name": "週遊社",
+   "type": "comm",
+   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
+   "poster": "/img/2/poster.jpg",
+   "tags": [
+    "書籍",
+    "聊天"
    ],
    "platform": "p",
    "recurring_mode": "week",
@@ -88,27 +85,6 @@
    "owner_id": "OTf4BDye2ehIYYO0cNdUnybKgGumrbgG"
   },
   {
-   "id": "01a2038f-259e-7302-80b3-7f6aecb4e4a8",
-   "title": "週游社[哈]",
-   "description": "這是一個類似於Podcast的活動\n目前主要以分享書籍為主\n歡迎掛機，隨意收聽\n詳情請參考X․com＠PAEW_VRC",
-   "time_start": "2026-11-29 13:00:00+00",
-   "time_end": "2026-11-29 14:00:00+00",
-   "instance_type": "group_plus",
-   "group_name": "週遊社",
-   "type": "comm",
-   "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/4/poster.jpg",
-   "tags": [
-    "書籍",
-    "聊天"
-   ],
-   "platform": "p",
-   "recurring_mode": "week",
-   "recurring_number": 1,
-   "recurring_complete": false,
-   "cancelled": false
-  },
-  {
    "id": "01a203c6-18ed-7606-bd06-2697a486e26d",
    "title": "週遊社[公]",
    "description": "活動內容：小團體玩圖達成目標，挑戰自我\n注意事項：工作人員發佈任務目標，大家一起努力達成，通常具有挑戰性\n相關連結：活動細節請參考X․com＠PAEW_VRC",
@@ -118,7 +94,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/5/poster.jpg",
+   "poster": "/img/4/poster.jpg",
    "tags": [
     "遊戲",
     "任務",
@@ -141,7 +117,7 @@
    "group_name": "週遊社",
    "type": "gather",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/6/poster.jpg",
+   "poster": "/img/5/poster.jpg",
    "tags": [
     "咖啡廳",
     "桌遊"
@@ -162,7 +138,7 @@
    "group_name": "週遊社",
    "type": "game",
    "group_id": "grp_bd99a04c-7b65-46e7-90b4-769b84705946",
-   "poster": "/img/7/poster.jpg",
+   "poster": "/img/6/poster.jpg",
    "tags": [
     "兵器",
     "戰鬥",
@@ -177,5 +153,5 @@
    "cancelled": false
   }
  ],
- "updated_at": "2026-11-27T15:03:57.768Z"
+ "updated_at": "2026-11-28T13:04:02.294Z"
 }
